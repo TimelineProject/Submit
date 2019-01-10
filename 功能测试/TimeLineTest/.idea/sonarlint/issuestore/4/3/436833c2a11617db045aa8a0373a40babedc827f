@@ -1,0 +1,20 @@
+
+isquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(Èè»¾8Ò–ÎÚý,
+Asquid:S1148 "#Use a logger to log this exception.(½×‰è8¨ñþÓü,
+Esquid:S1125P"(Remove the literal "true" boolean value.(‘æ­8Ò–ÎÚý,
+9squid:S36269"Remove this redundant jump.(ûÁÝ…8Ò–ÎÚý,
+nsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(úµÆøÿÿÿÿÿ8Ò–ÎÚý,
+±%squid:RedundantThrowsDeclarationCheck%"yRemove the declaration of thrown exception 'javax.servlet.ServletException' which is a subclass of 'java.lang.Throwable'.(ŽöéÄ8ÕžƒÔü,
+nsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(úµÆøÿÿÿÿÿ8òºÊ€-
+esquid:S00112%"FDefine and throw a dedicated exception instead of using a generic one.(ŽöéÄ8ÕžƒÔü,
+Hsquid:S1989"%Add a "try/catch" block for "doPost".(ã÷éíùÿÿÿÿ8°øÿÓü,
+9squid:S3626X"Remove this redundant jump.(ûÁÝ…8è«ÏÚý,
+9squid:S36264"Remove this redundant jump.(ûÁÝ…8¹€ÎÚý,
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(”Æ¢Ÿ8º·üÓü,
+jsquid:S00112="FDefine and throw a dedicated exception instead of using a generic one.(ºêÜ¾ýÿÿÿÿ8Ò–ÎÚý,
+[squid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ8óÖã‡ý,
+isquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(¤òñÚ8Ò–ÎÚý,
+¦%squid:RedundantThrowsDeclarationCheck%"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Throwable'.(ŽöéÄ8ÕžƒÔü,
+ksquid:S1192G"MDefine a constant instead of duplicating this literal "Register.jsp" 4 times.(²¿«€8Ò–ÎÚý,
+9squid:S3626S"Remove this redundant jump.(ûÁÝ…8è«ÏÚý,
+Hsquid:S1989"%Add a "try/catch" block for "doPost".(ã÷éíùÿÿÿÿ8°øÿÓü,
