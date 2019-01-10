@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1547119494134,34,11 /Register.jsp,200,,Thread Group 1-2,text,true,,1238,414,2,2,http://localhost:8080/Register.jsp,34,0,19
+1547119494127,41,11 /Register.jsp,200,,Thread Group 1-1,text,true,,1238,414,2,2,http://localhost:8080/Register.jsp,41,0,26
+1547119494026,41,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1238,414,2,2,null,41,100,26
+1547119494133,34,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1238,414,2,2,null,34,4,19
+1547119494172,25,12 /UserServlet?method=register,200,,Thread Group 1-2,text,true,,1224,706,2,2,http://localhost:8080/UserServlet?method=register,24,0,0
+1547119494172,27,12 /UserServlet?method=register,200,,Thread Group 1-1,text,true,,1224,706,2,2,http://localhost:8080/UserServlet?method=register,26,0,0
+1547119494197,5,13 /Login.jsp,200,,Thread Group 1-2,text,true,,958,650,2,2,http://localhost:8080/Login.jsp,5,0,0
+1547119494199,3,13 /Login.jsp,200,,Thread Group 1-1,text,true,,958,650,2,2,http://localhost:8080/Login.jsp,3,0,0
+1547119494202,23,14 /UserServlet?method=login,200,,Thread Group 1-1,text,true,,9078,681,2,2,http://localhost:8080/UserServlet?method=login,22,0,0
+1547119494172,53,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,11260,2037,2,2,null,51,0,0
+1547119494202,30,14 /UserServlet?method=login,200,,Thread Group 1-2,text,true,,9078,681,2,2,http://localhost:8080/UserServlet?method=login,30,0,0
+1547119494172,60,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,11260,2037,2,2,null,59,1,0
+1547119494230,4,11 /Register.jsp,200,,Thread Group 1-3,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,4,0,1
+1547119494228,4,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1238,414,1,1,null,4,2,1
+1547119494235,17,12 /UserServlet?method=register,200,,Thread Group 1-3,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,17,0,0
+1547119494253,2,13 /Login.jsp,200,,Thread Group 1-3,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119494256,21,14 /UserServlet?method=login,200,,Thread Group 1-3,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,21,0,0
+1547119494234,40,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,11260,2037,1,1,null,40,4,0
+1547119494325,3,11 /Register.jsp,200,,Thread Group 1-4,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119494324,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1238,414,1,1,null,3,2,1
+1547119494329,38,12 /UserServlet?method=register,200,,Thread Group 1-4,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,38,0,0
+1547119494368,1,13 /Login.jsp,200,,Thread Group 1-4,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119494370,13,14 /UserServlet?method=login,200,,Thread Group 1-4,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119494329,52,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,11260,2037,1,1,null,52,2,0
+1547119494425,3,11 /Register.jsp,200,,Thread Group 1-5,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,0
+1547119494424,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1238,414,1,1,null,3,1,0
+1547119494428,16,12 /UserServlet?method=register,200,,Thread Group 1-5,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119494444,2,13 /Login.jsp,200,,Thread Group 1-5,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119494447,22,14 /UserServlet?method=login,200,,Thread Group 1-5,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,22,0,0
+1547119494428,40,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,11260,2037,1,1,null,40,1,0
+1547119494525,4,11 /Register.jsp,200,,Thread Group 1-6,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,4,0,1
+1547119494525,4,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,1238,414,1,1,null,4,0,1
+1547119494529,18,12 /UserServlet?method=register,200,,Thread Group 1-6,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,18,0,0
+1547119494547,1,13 /Login.jsp,200,,Thread Group 1-6,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119494549,14,14 /UserServlet?method=login,200,,Thread Group 1-6,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,14,0,0
+1547119494529,33,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,11260,2037,1,1,null,33,1,0
+1547119494639,3,11 /Register.jsp,200,,Thread Group 1-7,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119494639,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,1238,414,1,1,null,3,1,1
+1547119494643,16,12 /UserServlet?method=register,200,,Thread Group 1-7,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119494659,2,13 /Login.jsp,200,,Thread Group 1-7,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119494661,14,14 /UserServlet?method=login,200,,Thread Group 1-7,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,14,0,0
+1547119494643,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,11260,2037,1,1,null,32,1,0
+1547119494734,2,11 /Register.jsp,200,,Thread Group 1-8,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119494732,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,1238,414,1,1,null,2,2,0
+1547119494736,16,12 /UserServlet?method=register,200,,Thread Group 1-8,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119494752,2,13 /Login.jsp,200,,Thread Group 1-8,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119494754,12,14 /UserServlet?method=login,200,,Thread Group 1-8,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119494736,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,11260,2037,1,1,null,30,0,0
+1547119494828,3,11 /Register.jsp,200,,Thread Group 1-9,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119494826,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,1238,414,1,1,null,3,2,1
+1547119494831,17,12 /UserServlet?method=register,200,,Thread Group 1-9,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,17,0,0
+1547119494848,2,13 /Login.jsp,200,,Thread Group 1-9,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119494850,14,14 /UserServlet?method=login,200,,Thread Group 1-9,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,14,0,0
+1547119494831,33,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,11260,2037,1,1,null,33,0,0
+1547119494937,3,11 /Register.jsp,200,,Thread Group 1-10,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119494935,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,1238,414,1,1,null,3,3,1
+1547119494941,17,12 /UserServlet?method=register,200,,Thread Group 1-10,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,17,0,0
+1547119494959,1,13 /Login.jsp,200,,Thread Group 1-10,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119494960,11,14 /UserServlet?method=login,200,,Thread Group 1-10,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119494941,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,11260,2037,1,1,null,29,1,0
+1547119495030,3,11 /Register.jsp,200,,Thread Group 1-11,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119495029,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,,1238,414,1,1,null,3,1,1
+1547119495033,16,12 /UserServlet?method=register,200,,Thread Group 1-11,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119495050,2,13 /Login.jsp,200,,Thread Group 1-11,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119495053,13,14 /UserServlet?method=login,200,,Thread Group 1-11,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119495033,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-11,,true,,11260,2037,1,1,null,31,2,0
+1547119495126,3,11 /Register.jsp,200,,Thread Group 1-12,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119495125,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,,1238,414,1,1,null,3,2,1
+1547119495130,15,12 /UserServlet?method=register,200,,Thread Group 1-12,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119495146,1,13 /Login.jsp,200,,Thread Group 1-12,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119495148,11,14 /UserServlet?method=login,200,,Thread Group 1-12,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119495130,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-12,,true,,11260,2037,1,1,null,27,3,0
+1547119495225,3,11 /Register.jsp,200,,Thread Group 1-13,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119495224,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,,1238,414,1,1,null,3,1,1
+1547119495229,18,12 /UserServlet?method=register,200,,Thread Group 1-13,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,18,0,0
+1547119495247,2,13 /Login.jsp,200,,Thread Group 1-13,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119495249,23,14 /UserServlet?method=login,200,,Thread Group 1-13,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,23,0,0
+1547119495228,43,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-13,,true,,11260,2037,1,1,null,43,1,0
+1547119495325,2,11 /Register.jsp,200,,Thread Group 1-14,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119495324,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,,1238,414,1,1,null,2,2,0
+1547119495328,16,12 /UserServlet?method=register,200,,Thread Group 1-14,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119495345,11,13 /Login.jsp,200,,Thread Group 1-14,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,11,0,0
+1547119495356,17,14 /UserServlet?method=login,200,,Thread Group 1-14,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,17,0,0
+1547119495328,44,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-14,,true,,11260,2037,1,1,null,44,2,0
+1547119495440,2,11 /Register.jsp,200,,Thread Group 1-15,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119495439,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,,1238,414,1,1,null,2,2,1
+1547119495443,13,12 /UserServlet?method=register,200,,Thread Group 1-15,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119495457,1,13 /Login.jsp,200,,Thread Group 1-15,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119495458,11,14 /UserServlet?method=login,200,,Thread Group 1-15,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119495443,25,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-15,,true,,11260,2037,1,1,null,25,2,0
+1547119495540,2,11 /Register.jsp,200,,Thread Group 1-16,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119495540,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,,1238,414,1,1,null,2,1,1
+1547119495543,16,12 /UserServlet?method=register,200,,Thread Group 1-16,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119495559,1,13 /Login.jsp,200,,Thread Group 1-16,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119495560,17,14 /UserServlet?method=login,200,,Thread Group 1-16,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,17,0,0
+1547119495543,34,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-16,,true,,11260,2037,1,1,null,34,1,0
+1547119495640,4,11 /Register.jsp,200,,Thread Group 1-17,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,4,0,1
+1547119495640,4,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,,1238,414,1,1,null,4,0,1
+1547119495644,31,12 /UserServlet?method=register,200,,Thread Group 1-17,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,30,0,0
+1547119495675,2,13 /Login.jsp,200,,Thread Group 1-17,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119495677,19,14 /UserServlet?method=login,200,,Thread Group 1-17,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,19,0,0
+1547119495644,52,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-17,,true,,11260,2037,1,1,null,51,0,0
+1547119495740,2,11 /Register.jsp,200,,Thread Group 1-18,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119495739,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,,1238,414,1,1,null,2,1,0
+1547119495742,13,12 /UserServlet?method=register,200,,Thread Group 1-18,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119495756,2,13 /Login.jsp,200,,Thread Group 1-18,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119495758,15,14 /UserServlet?method=login,200,,Thread Group 1-18,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,15,0,0
+1547119495742,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-18,,true,,11260,2037,1,1,null,30,1,0
+1547119495840,3,11 /Register.jsp,200,,Thread Group 1-19,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119495839,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,,1238,414,1,1,null,3,1,1
+1547119495844,21,12 /UserServlet?method=register,200,,Thread Group 1-19,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,21,0,0
+1547119495866,2,13 /Login.jsp,200,,Thread Group 1-19,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119495868,14,14 /UserServlet?method=login,200,,Thread Group 1-19,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,14,0,0
+1547119495843,37,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-19,,true,,11260,2037,1,1,null,37,3,0
+1547119495941,3,11 /Register.jsp,200,,Thread Group 1-20,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119495940,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,,1238,414,1,1,null,3,1,1
+1547119495945,14,12 /UserServlet?method=register,200,,Thread Group 1-20,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119495959,2,13 /Login.jsp,200,,Thread Group 1-20,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119495961,13,14 /UserServlet?method=login,200,,Thread Group 1-20,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119495944,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-20,,true,,11260,2037,1,1,null,29,1,0
+1547119496040,3,11 /Register.jsp,200,,Thread Group 1-21,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119496039,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,,1238,414,1,1,null,3,1,1
+1547119496043,14,12 /UserServlet?method=register,200,,Thread Group 1-21,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119496057,2,13 /Login.jsp,200,,Thread Group 1-21,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119496059,11,14 /UserServlet?method=login,200,,Thread Group 1-21,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119496043,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-21,,true,,11260,2037,1,1,null,27,1,0
+1547119496139,2,11 /Register.jsp,200,,Thread Group 1-22,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119496139,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,,1238,414,1,1,null,2,1,1
+1547119496142,15,12 /UserServlet?method=register,200,,Thread Group 1-22,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119496157,11,13 /Login.jsp,200,,Thread Group 1-22,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,10,0,0
+1547119496168,12,14 /UserServlet?method=login,200,,Thread Group 1-22,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119496142,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-22,,true,,11260,2037,1,1,null,37,0,0
+1547119496245,2,11 /Register.jsp,200,,Thread Group 1-23,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119496244,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,,1238,414,1,1,null,2,2,0
+1547119496248,13,12 /UserServlet?method=register,200,,Thread Group 1-23,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119496261,1,13 /Login.jsp,200,,Thread Group 1-23,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119496263,13,14 /UserServlet?method=login,200,,Thread Group 1-23,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119496248,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-23,,true,,11260,2037,1,1,null,27,1,0
+1547119496340,4,11 /Register.jsp,200,,Thread Group 1-24,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,4,0,2
+1547119496340,4,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,,1238,414,1,1,null,4,0,2
+1547119496344,14,12 /UserServlet?method=register,200,,Thread Group 1-24,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119496359,12,13 /Login.jsp,200,,Thread Group 1-24,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,12,0,0
+1547119496372,12,14 /UserServlet?method=login,200,,Thread Group 1-24,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119496344,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-24,,true,,11260,2037,1,1,null,38,2,0
+1547119496440,2,11 /Register.jsp,200,,Thread Group 1-25,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119496439,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,,1238,414,1,1,null,2,1,0
+1547119496442,15,12 /UserServlet?method=register,200,,Thread Group 1-25,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119496457,2,13 /Login.jsp,200,,Thread Group 1-25,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119496459,40,14 /UserServlet?method=login,200,,Thread Group 1-25,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,39,0,0
+1547119496442,57,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-25,,true,,11260,2037,1,1,null,55,0,0
+1547119496540,2,11 /Register.jsp,200,,Thread Group 1-26,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119496539,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,,1238,414,1,1,null,2,1,1
+1547119496542,27,12 /UserServlet?method=register,200,,Thread Group 1-26,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,27,0,0
+1547119496569,5,13 /Login.jsp,200,,Thread Group 1-26,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,5,0,0
+1547119496574,12,14 /UserServlet?method=login,200,,Thread Group 1-26,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119496542,44,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-26,,true,,11260,2037,1,1,null,44,0,0
+1547119496641,2,11 /Register.jsp,200,,Thread Group 1-27,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119496640,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,,1238,414,1,1,null,2,1,0
+1547119496643,14,12 /UserServlet?method=register,200,,Thread Group 1-27,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119496657,6,13 /Login.jsp,200,,Thread Group 1-27,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,6,0,0
+1547119496664,33,14 /UserServlet?method=login,200,,Thread Group 1-27,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,32,0,0
+1547119496643,53,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-27,,true,,11260,2037,1,1,null,52,1,0
+1547119496740,3,11 /Register.jsp,200,,Thread Group 1-28,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119496740,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,,1238,414,1,1,null,3,0,1
+1547119496743,14,12 /UserServlet?method=register,200,,Thread Group 1-28,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119496757,2,13 /Login.jsp,200,,Thread Group 1-28,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119496759,16,14 /UserServlet?method=login,200,,Thread Group 1-28,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,16,0,0
+1547119496743,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-28,,true,,11260,2037,1,1,null,32,0,0
+1547119496839,2,11 /Register.jsp,200,,Thread Group 1-29,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119496838,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,,1238,414,1,1,null,2,2,1
+1547119496842,13,12 /UserServlet?method=register,200,,Thread Group 1-29,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119496856,3,13 /Login.jsp,200,,Thread Group 1-29,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,3,0,0
+1547119496859,32,14 /UserServlet?method=login,200,,Thread Group 1-29,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,31,0,0
+1547119496842,48,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-29,,true,,11260,2037,1,1,null,47,1,0
+1547119496940,3,11 /Register.jsp,200,,Thread Group 1-30,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119496939,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,,1238,414,1,1,null,3,2,1
+1547119496944,16,12 /UserServlet?method=register,200,,Thread Group 1-30,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119496961,1,13 /Login.jsp,200,,Thread Group 1-30,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119496962,36,14 /UserServlet?method=login,200,,Thread Group 1-30,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,36,0,0
+1547119496944,53,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-30,,true,,11260,2037,1,1,null,53,2,0
+1547119497040,2,11 /Register.jsp,200,,Thread Group 1-31,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119497040,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,,1238,414,1,1,null,2,0,1
+1547119497043,11,12 /UserServlet?method=register,200,,Thread Group 1-31,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119497054,1,13 /Login.jsp,200,,Thread Group 1-31,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119497056,19,14 /UserServlet?method=login,200,,Thread Group 1-31,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,19,0,0
+1547119497042,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-31,,true,,11260,2037,1,1,null,31,2,0
+1547119497140,2,11 /Register.jsp,200,,Thread Group 1-32,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119497140,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,,1238,414,1,1,null,2,0,1
+1547119497143,20,12 /UserServlet?method=register,200,,Thread Group 1-32,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,20,0,0
+1547119497164,1,13 /Login.jsp,200,,Thread Group 1-32,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119497166,12,14 /UserServlet?method=login,200,,Thread Group 1-32,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119497142,33,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-32,,true,,11260,2037,1,1,null,32,3,0
+1547119497241,2,11 /Register.jsp,200,,Thread Group 1-33,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119497240,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,,1238,414,1,1,null,2,1,1
+1547119497244,22,12 /UserServlet?method=register,200,,Thread Group 1-33,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,22,0,0
+1547119497267,1,13 /Login.jsp,200,,Thread Group 1-33,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119497268,12,14 /UserServlet?method=login,200,,Thread Group 1-33,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119497244,35,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-33,,true,,11260,2037,1,1,null,35,1,0
+1547119497340,2,11 /Register.jsp,200,,Thread Group 1-34,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119497339,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,,1238,414,1,1,null,2,2,1
+1547119497343,12,12 /UserServlet?method=register,200,,Thread Group 1-34,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119497356,13,13 /Login.jsp,200,,Thread Group 1-34,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,13,0,0
+1547119497369,11,14 /UserServlet?method=login,200,,Thread Group 1-34,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119497343,36,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-34,,true,,11260,2037,1,1,null,35,1,0
+1547119497441,2,11 /Register.jsp,200,,Thread Group 1-35,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119497439,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,,1238,414,1,1,null,2,2,0
+1547119497443,17,12 /UserServlet?method=register,200,,Thread Group 1-35,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,17,0,0
+1547119497460,2,13 /Login.jsp,200,,Thread Group 1-35,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119497462,13,14 /UserServlet?method=login,200,,Thread Group 1-35,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119497443,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-35,,true,,11260,2037,1,1,null,32,0,0
+1547119497540,2,11 /Register.jsp,200,,Thread Group 1-36,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119497540,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,,1238,414,1,1,null,2,0,1
+1547119497543,11,12 /UserServlet?method=register,200,,Thread Group 1-36,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119497555,0,13 /Login.jsp,200,,Thread Group 1-36,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119497556,19,14 /UserServlet?method=login,200,,Thread Group 1-36,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,19,0,0
+1547119497542,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-36,,true,,11260,2037,1,1,null,30,3,0
+1547119497640,2,11 /Register.jsp,200,,Thread Group 1-37,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119497640,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,,1238,414,1,1,null,2,0,1
+1547119497643,13,12 /UserServlet?method=register,200,,Thread Group 1-37,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119497657,1,13 /Login.jsp,200,,Thread Group 1-37,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119497658,21,14 /UserServlet?method=login,200,,Thread Group 1-37,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,21,0,0
+1547119497642,35,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-37,,true,,11260,2037,1,1,null,35,3,0
+1547119497740,2,11 /Register.jsp,200,,Thread Group 1-38,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119497739,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-38,,true,,1238,414,1,1,null,2,1,0
+1547119497742,13,12 /UserServlet?method=register,200,,Thread Group 1-38,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119497755,1,13 /Login.jsp,200,,Thread Group 1-38,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119497756,29,14 /UserServlet?method=login,200,,Thread Group 1-38,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,29,0,0
+1547119497742,43,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-38,,true,,11260,2037,1,1,null,43,0,0
+1547119497856,3,11 /Register.jsp,200,,Thread Group 1-39,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119497856,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,,1238,414,1,1,null,3,0,1
+1547119497859,15,12 /UserServlet?method=register,200,,Thread Group 1-39,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119497874,5,13 /Login.jsp,200,,Thread Group 1-39,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,5,0,0
+1547119497879,10,14 /UserServlet?method=login,200,,Thread Group 1-39,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119497859,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-39,,true,,11260,2037,1,1,null,29,0,0
+1547119497956,2,11 /Register.jsp,200,,Thread Group 1-40,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119497956,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,,1238,414,1,1,null,2,0,1
+1547119497959,14,12 /UserServlet?method=register,200,,Thread Group 1-40,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119497973,1,13 /Login.jsp,200,,Thread Group 1-40,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119497974,25,14 /UserServlet?method=login,200,,Thread Group 1-40,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,25,0,0
+1547119497959,40,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-40,,true,,11260,2037,1,1,null,39,0,0
+1547119498056,2,11 /Register.jsp,200,,Thread Group 1-41,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119498055,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,,1238,414,1,1,null,2,1,0
+1547119498058,13,12 /UserServlet?method=register,200,,Thread Group 1-41,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119498071,2,13 /Login.jsp,200,,Thread Group 1-41,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119498073,11,14 /UserServlet?method=login,200,,Thread Group 1-41,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119498058,26,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-41,,true,,11260,2037,1,1,null,26,0,0
+1547119498156,3,11 /Register.jsp,200,,Thread Group 1-42,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119498156,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,,1238,414,1,1,null,3,1,1
+1547119498160,22,12 /UserServlet?method=register,200,,Thread Group 1-42,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,22,0,0
+1547119498183,7,13 /Login.jsp,200,,Thread Group 1-42,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,7,0,0
+1547119498190,11,14 /UserServlet?method=login,200,,Thread Group 1-42,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119498160,40,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-42,,true,,11260,2037,1,1,null,40,1,0
+1547119498256,2,11 /Register.jsp,200,,Thread Group 1-43,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119498256,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,,1238,414,1,1,null,2,1,1
+1547119498259,15,12 /UserServlet?method=register,200,,Thread Group 1-43,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119498274,3,13 /Login.jsp,200,,Thread Group 1-43,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,3,0,0
+1547119498277,26,14 /UserServlet?method=login,200,,Thread Group 1-43,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,26,0,0
+1547119498259,44,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-43,,true,,11260,2037,1,1,null,44,0,0
+1547119498356,2,11 /Register.jsp,200,,Thread Group 1-44,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119498355,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,,1238,414,1,1,null,2,2,1
+1547119498359,13,12 /UserServlet?method=register,200,,Thread Group 1-44,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119498372,1,13 /Login.jsp,200,,Thread Group 1-44,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119498374,44,14 /UserServlet?method=login,200,,Thread Group 1-44,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,33,0,0
+1547119498359,58,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-44,,true,,11260,2037,1,1,null,47,2,0
+1547119498457,2,11 /Register.jsp,200,,Thread Group 1-45,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119498456,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,,1238,414,1,1,null,2,1,0
+1547119498459,13,12 /UserServlet?method=register,200,,Thread Group 1-45,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119498472,8,13 /Login.jsp,200,,Thread Group 1-45,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,8,0,0
+1547119498480,11,14 /UserServlet?method=login,200,,Thread Group 1-45,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119498459,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-45,,true,,11260,2037,1,1,null,32,0,0
+1547119498556,2,11 /Register.jsp,200,,Thread Group 1-46,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119498556,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,,1238,414,1,1,null,2,1,1
+1547119498559,25,12 /UserServlet?method=register,200,,Thread Group 1-46,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,25,0,0
+1547119498584,1,13 /Login.jsp,200,,Thread Group 1-46,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119498585,13,14 /UserServlet?method=login,200,,Thread Group 1-46,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119498559,39,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-46,,true,,11260,2037,1,1,null,39,0,0
+1547119498656,2,11 /Register.jsp,200,,Thread Group 1-47,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119498655,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,,1238,414,1,1,null,2,1,1
+1547119498658,15,12 /UserServlet?method=register,200,,Thread Group 1-47,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119498674,1,13 /Login.jsp,200,,Thread Group 1-47,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119498675,40,14 /UserServlet?method=login,200,,Thread Group 1-47,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,39,0,0
+1547119498658,56,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-47,,true,,11260,2037,1,1,null,55,1,0
+1547119498756,2,11 /Register.jsp,200,,Thread Group 1-48,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119498755,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,,1238,414,1,1,null,2,1,1
+1547119498758,23,12 /UserServlet?method=register,200,,Thread Group 1-48,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,23,0,0
+1547119498782,1,13 /Login.jsp,200,,Thread Group 1-48,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119498784,13,14 /UserServlet?method=login,200,,Thread Group 1-48,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119498758,37,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-48,,true,,11260,2037,1,1,null,36,2,0
+1547119498857,2,11 /Register.jsp,200,,Thread Group 1-49,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119498856,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,,1238,414,1,1,null,2,1,1
+1547119498860,13,12 /UserServlet?method=register,200,,Thread Group 1-49,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119498873,2,13 /Login.jsp,200,,Thread Group 1-49,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119498875,10,14 /UserServlet?method=login,200,,Thread Group 1-49,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119498859,25,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-49,,true,,11260,2037,1,1,null,25,1,0
+1547119498956,3,11 /Register.jsp,200,,Thread Group 1-50,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119498956,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,,1238,414,1,1,null,3,0,1
+1547119498959,15,12 /UserServlet?method=register,200,,Thread Group 1-50,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119498974,1,13 /Login.jsp,200,,Thread Group 1-50,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119498975,21,14 /UserServlet?method=login,200,,Thread Group 1-50,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,21,0,0
+1547119498959,37,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-50,,true,,11260,2037,1,1,null,37,0,0
+1547119499057,2,11 /Register.jsp,200,,Thread Group 1-51,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119499056,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,,1238,414,1,1,null,1,1,0
+1547119499059,11,12 /UserServlet?method=register,200,,Thread Group 1-51,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119499070,1,13 /Login.jsp,200,,Thread Group 1-51,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119499072,34,14 /UserServlet?method=login,200,,Thread Group 1-51,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,34,0,0
+1547119499059,46,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-51,,true,,11260,2037,1,1,null,46,1,0
+1547119499157,2,11 /Register.jsp,200,,Thread Group 1-52,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119499156,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,,1238,414,1,1,null,2,2,1
+1547119499160,12,12 /UserServlet?method=register,200,,Thread Group 1-52,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119499172,3,13 /Login.jsp,200,,Thread Group 1-52,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,3,0,0
+1547119499175,8,14 /UserServlet?method=login,200,,Thread Group 1-52,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119499160,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-52,,true,,11260,2037,1,1,null,23,1,0
+1547119499255,3,11 /Register.jsp,200,,Thread Group 1-53,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119499255,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,,1238,414,1,1,null,3,0,1
+1547119499258,11,12 /UserServlet?method=register,200,,Thread Group 1-53,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119499270,0,13 /Login.jsp,200,,Thread Group 1-53,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119499271,10,14 /UserServlet?method=login,200,,Thread Group 1-53,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119499258,21,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-53,,true,,11260,2037,1,1,null,20,2,0
+1547119499356,2,11 /Register.jsp,200,,Thread Group 1-54,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119499355,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,,1238,414,1,1,null,2,1,0
+1547119499359,16,12 /UserServlet?method=register,200,,Thread Group 1-54,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119499375,1,13 /Login.jsp,200,,Thread Group 1-54,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119499377,8,14 /UserServlet?method=login,200,,Thread Group 1-54,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119499358,25,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-54,,true,,11260,2037,1,1,null,25,2,0
+1547119499456,3,11 /Register.jsp,200,,Thread Group 1-55,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119499455,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,,1238,414,1,1,null,3,1,1
+1547119499459,12,12 /UserServlet?method=register,200,,Thread Group 1-55,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119499471,1,13 /Login.jsp,200,,Thread Group 1-55,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119499473,16,14 /UserServlet?method=login,200,,Thread Group 1-55,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,16,0,0
+1547119499459,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-55,,true,,11260,2037,1,1,null,29,2,0
+1547119499557,2,11 /Register.jsp,200,,Thread Group 1-56,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119499556,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,,1238,414,1,1,null,2,1,0
+1547119499559,14,12 /UserServlet?method=register,200,,Thread Group 1-56,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119499573,1,13 /Login.jsp,200,,Thread Group 1-56,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119499574,23,14 /UserServlet?method=login,200,,Thread Group 1-56,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,23,0,0
+1547119499559,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-56,,true,,11260,2037,1,1,null,37,0,0
+1547119499656,2,11 /Register.jsp,200,,Thread Group 1-57,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119499655,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,,1238,414,1,1,null,2,1,1
+1547119499658,11,12 /UserServlet?method=register,200,,Thread Group 1-57,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119499669,7,13 /Login.jsp,200,,Thread Group 1-57,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,7,0,0
+1547119499676,11,14 /UserServlet?method=login,200,,Thread Group 1-57,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119499658,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-57,,true,,11260,2037,1,1,null,29,0,0
+1547119499755,4,11 /Register.jsp,200,,Thread Group 1-58,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,2
+1547119499755,4,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,,1238,414,1,1,null,3,0,2
+1547119499759,12,12 /UserServlet?method=register,200,,Thread Group 1-58,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119499771,1,13 /Login.jsp,200,,Thread Group 1-58,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119499772,12,14 /UserServlet?method=login,200,,Thread Group 1-58,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119499759,25,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-58,,true,,11260,2037,1,1,null,24,0,0
+1547119499856,2,11 /Register.jsp,200,,Thread Group 1-59,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119499855,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,,1238,414,1,1,null,2,2,1
+1547119499859,13,12 /UserServlet?method=register,200,,Thread Group 1-59,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119499873,1,13 /Login.jsp,200,,Thread Group 1-59,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119499874,24,14 /UserServlet?method=login,200,,Thread Group 1-59,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,24,0,0
+1547119499859,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-59,,true,,11260,2037,1,1,null,38,2,0
+1547119499956,2,11 /Register.jsp,200,,Thread Group 1-60,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119499955,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,,1238,414,1,1,null,2,1,0
+1547119499959,13,12 /UserServlet?method=register,200,,Thread Group 1-60,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119499972,1,13 /Login.jsp,200,,Thread Group 1-60,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119499974,10,14 /UserServlet?method=login,200,,Thread Group 1-60,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119499958,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-60,,true,,11260,2037,1,1,null,24,2,0
+1547119500055,3,11 /Register.jsp,200,,Thread Group 1-61,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119500055,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,,1238,414,1,1,null,2,1,1
+1547119500059,13,12 /UserServlet?method=register,200,,Thread Group 1-61,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119500073,2,13 /Login.jsp,200,,Thread Group 1-61,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119500076,17,14 /UserServlet?method=login,200,,Thread Group 1-61,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,17,0,0
+1547119500059,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-61,,true,,11260,2037,1,1,null,32,3,0
+1547119500157,1,11 /Register.jsp,200,,Thread Group 1-62,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119500156,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,,1238,414,1,1,null,1,2,0
+1547119500159,28,12 /UserServlet?method=register,200,,Thread Group 1-62,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,28,0,0
+1547119500188,1,13 /Login.jsp,200,,Thread Group 1-62,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119500189,11,14 /UserServlet?method=login,200,,Thread Group 1-62,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119500159,40,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-62,,true,,11260,2037,1,1,null,40,1,0
+1547119500257,1,11 /Register.jsp,200,,Thread Group 1-63,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119500256,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,,1238,414,1,1,null,1,2,0
+1547119500259,11,12 /UserServlet?method=register,200,,Thread Group 1-63,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119500271,8,13 /Login.jsp,200,,Thread Group 1-63,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,7,0,0
+1547119500279,10,14 /UserServlet?method=login,200,,Thread Group 1-63,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119500259,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-63,,true,,11260,2037,1,1,null,27,1,0
+1547119500355,2,11 /Register.jsp,200,,Thread Group 1-64,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119500355,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,,1238,414,1,1,null,2,1,1
+1547119500358,13,12 /UserServlet?method=register,200,,Thread Group 1-64,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119500371,1,13 /Login.jsp,200,,Thread Group 1-64,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119500373,9,14 /UserServlet?method=login,200,,Thread Group 1-64,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119500358,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-64,,true,,11260,2037,1,1,null,23,1,0
+1547119500456,2,11 /Register.jsp,200,,Thread Group 1-65,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119500455,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,,1238,414,1,1,null,2,1,1
+1547119500459,12,12 /UserServlet?method=register,200,,Thread Group 1-65,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119500471,1,13 /Login.jsp,200,,Thread Group 1-65,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119500472,14,14 /UserServlet?method=login,200,,Thread Group 1-65,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,14,0,0
+1547119500458,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-65,,true,,11260,2037,1,1,null,27,1,0
+1547119500556,2,11 /Register.jsp,200,,Thread Group 1-66,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119500555,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,,1238,414,1,1,null,2,1,0
+1547119500558,12,12 /UserServlet?method=register,200,,Thread Group 1-66,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119500570,1,13 /Login.jsp,200,,Thread Group 1-66,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119500571,17,14 /UserServlet?method=login,200,,Thread Group 1-66,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,17,0,0
+1547119500558,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-66,,true,,11260,2037,1,1,null,30,1,0
+1547119500658,1,11 /Register.jsp,200,,Thread Group 1-67,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119500657,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,,1238,414,1,1,null,1,1,0
+1547119500660,11,12 /UserServlet?method=register,200,,Thread Group 1-67,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119500671,13,13 /Login.jsp,200,,Thread Group 1-67,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,13,0,0
+1547119500684,9,14 /UserServlet?method=login,200,,Thread Group 1-67,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119500659,33,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-67,,true,,11260,2037,1,1,null,33,1,0
+1547119500755,2,11 /Register.jsp,200,,Thread Group 1-68,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119500755,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,,1238,414,1,1,null,2,1,1
+1547119500758,11,12 /UserServlet?method=register,200,,Thread Group 1-68,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119500770,2,13 /Login.jsp,200,,Thread Group 1-68,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119500772,9,14 /UserServlet?method=login,200,,Thread Group 1-68,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119500758,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-68,,true,,11260,2037,1,1,null,22,1,0
+1547119500871,2,11 /Register.jsp,200,,Thread Group 1-69,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119500870,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,,1238,414,1,1,null,2,1,1
+1547119500873,17,12 /UserServlet?method=register,200,,Thread Group 1-69,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,17,0,0
+1547119500890,2,13 /Login.jsp,200,,Thread Group 1-69,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119500892,13,14 /UserServlet?method=login,200,,Thread Group 1-69,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119500873,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-69,,true,,11260,2037,1,1,null,32,0,0
+1547119500972,2,11 /Register.jsp,200,,Thread Group 1-70,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119500971,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,,1238,414,1,1,null,2,1,1
+1547119500974,12,12 /UserServlet?method=register,200,,Thread Group 1-70,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119500986,5,13 /Login.jsp,200,,Thread Group 1-70,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,5,0,0
+1547119500991,14,14 /UserServlet?method=login,200,,Thread Group 1-70,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,14,0,0
+1547119500974,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-70,,true,,11260,2037,1,1,null,31,1,0
+1547119501072,2,11 /Register.jsp,200,,Thread Group 1-71,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119501072,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,,1238,414,1,1,null,2,1,1
+1547119501075,12,12 /UserServlet?method=register,200,,Thread Group 1-71,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119501087,2,13 /Login.jsp,200,,Thread Group 1-71,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119501089,24,14 /UserServlet?method=login,200,,Thread Group 1-71,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,24,0,0
+1547119501075,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-71,,true,,11260,2037,1,1,null,38,0,0
+1547119501173,2,11 /Register.jsp,200,,Thread Group 1-72,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119501172,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,,1238,414,1,1,null,2,1,1
+1547119501176,13,12 /UserServlet?method=register,200,,Thread Group 1-72,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119501189,1,13 /Login.jsp,200,,Thread Group 1-72,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119501190,9,14 /UserServlet?method=login,200,,Thread Group 1-72,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119501175,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-72,,true,,11260,2037,1,1,null,23,2,0
+1547119501273,6,11 /Register.jsp,200,,Thread Group 1-73,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,5,0,1
+1547119501272,6,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,,1238,414,1,1,null,5,1,1
+1547119501279,12,12 /UserServlet?method=register,200,,Thread Group 1-73,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119501291,1,13 /Login.jsp,200,,Thread Group 1-73,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119501292,16,14 /UserServlet?method=login,200,,Thread Group 1-73,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119501279,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-73,,true,,11260,2037,1,1,null,23,0,0
+1547119501372,3,11 /Register.jsp,200,,Thread Group 1-74,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,0
+1547119501372,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,,1238,414,1,1,null,3,0,0
+1547119501375,17,12 /UserServlet?method=register,200,,Thread Group 1-74,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,17,0,0
+1547119501392,1,13 /Login.jsp,200,,Thread Group 1-74,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119501394,16,14 /UserServlet?method=login,200,,Thread Group 1-74,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,16,0,0
+1547119501375,34,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-74,,true,,11260,2037,1,1,null,34,1,0
+1547119501472,2,11 /Register.jsp,200,,Thread Group 1-75,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119501471,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,,1238,414,1,1,null,2,1,0
+1547119501474,12,12 /UserServlet?method=register,200,,Thread Group 1-75,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119501486,1,13 /Login.jsp,200,,Thread Group 1-75,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119501487,17,14 /UserServlet?method=login,200,,Thread Group 1-75,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,17,0,0
+1547119501474,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-75,,true,,11260,2037,1,1,null,30,0,0
+1547119501573,2,11 /Register.jsp,200,,Thread Group 1-76,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119501572,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,,1238,414,1,1,null,2,1,0
+1547119501575,15,12 /UserServlet?method=register,200,,Thread Group 1-76,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119501591,11,13 /Login.jsp,200,,Thread Group 1-76,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,11,0,0
+1547119501602,11,14 /UserServlet?method=login,200,,Thread Group 1-76,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119501575,37,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-76,,true,,11260,2037,1,1,null,37,1,0
+1547119501672,4,11 /Register.jsp,200,,Thread Group 1-77,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,4,0,1
+1547119501672,4,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,,1238,414,1,1,null,4,0,1
+1547119501677,19,12 /UserServlet?method=register,200,,Thread Group 1-77,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,19,0,0
+1547119501696,1,13 /Login.jsp,200,,Thread Group 1-77,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119501697,10,14 /UserServlet?method=login,200,,Thread Group 1-77,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119501676,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-77,,true,,11260,2037,1,1,null,30,1,0
+1547119501772,1,11 /Register.jsp,200,,Thread Group 1-78,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119501771,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,,1238,414,1,1,null,1,2,0
+1547119501774,12,12 /UserServlet?method=register,200,,Thread Group 1-78,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119501786,8,13 /Login.jsp,200,,Thread Group 1-78,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,8,0,0
+1547119501794,10,14 /UserServlet?method=login,200,,Thread Group 1-78,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119501774,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-78,,true,,11260,2037,1,1,null,30,0,0
+1547119501873,2,11 /Register.jsp,200,,Thread Group 1-79,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119501872,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,,1238,414,1,1,null,1,1,0
+1547119501875,13,12 /UserServlet?method=register,200,,Thread Group 1-79,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119501889,1,13 /Login.jsp,200,,Thread Group 1-79,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119501890,9,14 /UserServlet?method=login,200,,Thread Group 1-79,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119501875,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-79,,true,,11260,2037,1,1,null,22,1,0
+1547119501972,2,11 /Register.jsp,200,,Thread Group 1-80,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119501972,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,,1238,414,1,1,null,2,0,1
+1547119501975,11,12 /UserServlet?method=register,200,,Thread Group 1-80,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119501987,1,13 /Login.jsp,200,,Thread Group 1-80,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119501989,10,14 /UserServlet?method=login,200,,Thread Group 1-80,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119501974,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-80,,true,,11260,2037,1,1,null,22,4,0
+1547119502072,1,11 /Register.jsp,200,,Thread Group 1-81,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119502071,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,,1238,414,1,1,null,1,2,0
+1547119502074,11,12 /UserServlet?method=register,200,,Thread Group 1-81,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119502086,1,13 /Login.jsp,200,,Thread Group 1-81,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119502087,11,14 /UserServlet?method=login,200,,Thread Group 1-81,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119502074,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-81,,true,,11260,2037,1,1,null,23,2,0
+1547119502173,5,11 /Register.jsp,200,,Thread Group 1-82,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,5,0,1
+1547119502172,5,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,,1238,414,1,1,null,5,1,1
+1547119502178,11,12 /UserServlet?method=register,200,,Thread Group 1-82,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119502190,1,13 /Login.jsp,200,,Thread Group 1-82,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119502191,26,14 /UserServlet?method=login,200,,Thread Group 1-82,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,26,0,0
+1547119502178,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-82,,true,,11260,2037,1,1,null,38,1,0
+1547119502273,2,11 /Register.jsp,200,,Thread Group 1-83,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119502272,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,,1238,414,1,1,null,2,1,1
+1547119502275,18,12 /UserServlet?method=register,200,,Thread Group 1-83,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,18,0,0
+1547119502293,17,13 /Login.jsp,200,,Thread Group 1-83,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,17,0,0
+1547119502311,12,14 /UserServlet?method=login,200,,Thread Group 1-83,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119502275,47,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-83,,true,,11260,2037,1,1,null,47,1,0
+1547119502373,2,11 /Register.jsp,200,,Thread Group 1-84,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119502372,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,,1238,414,1,1,null,2,2,1
+1547119502376,12,12 /UserServlet?method=register,200,,Thread Group 1-84,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119502388,1,13 /Login.jsp,200,,Thread Group 1-84,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119502390,15,14 /UserServlet?method=login,200,,Thread Group 1-84,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,15,0,0
+1547119502376,28,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-84,,true,,11260,2037,1,1,null,28,1,0
+1547119502472,2,11 /Register.jsp,200,,Thread Group 1-85,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119502471,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,,1238,414,1,1,null,2,1,0
+1547119502474,11,12 /UserServlet?method=register,200,,Thread Group 1-85,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119502485,4,13 /Login.jsp,200,,Thread Group 1-85,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,4,0,0
+1547119502490,13,14 /UserServlet?method=login,200,,Thread Group 1-85,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119502474,28,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-85,,true,,11260,2037,1,1,null,27,1,0
+1547119502572,2,11 /Register.jsp,200,,Thread Group 1-86,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119502572,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,,1238,414,1,1,null,2,0,1
+1547119502575,12,12 /UserServlet?method=register,200,,Thread Group 1-86,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119502587,1,13 /Login.jsp,200,,Thread Group 1-86,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119502589,9,14 /UserServlet?method=login,200,,Thread Group 1-86,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119502575,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-86,,true,,11260,2037,1,1,null,22,1,0
+1547119502672,2,11 /Register.jsp,200,,Thread Group 1-87,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119502672,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,,1238,414,1,1,null,2,1,1
+1547119502675,12,12 /UserServlet?method=register,200,,Thread Group 1-87,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119502688,1,13 /Login.jsp,200,,Thread Group 1-87,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119502689,25,14 /UserServlet?method=login,200,,Thread Group 1-87,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,25,0,0
+1547119502675,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-87,,true,,11260,2037,1,1,null,38,1,0
+1547119502772,1,11 /Register.jsp,200,,Thread Group 1-88,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119502771,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-88,,true,,1238,414,1,1,null,1,2,0
+1547119502774,13,12 /UserServlet?method=register,200,,Thread Group 1-88,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119502787,1,13 /Login.jsp,200,,Thread Group 1-88,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119502788,24,14 /UserServlet?method=login,200,,Thread Group 1-88,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,24,0,0
+1547119502774,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-88,,true,,11260,2037,1,1,null,38,0,0
+1547119502873,1,11 /Register.jsp,200,,Thread Group 1-89,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119502872,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-89,,true,,1238,414,1,1,null,1,2,0
+1547119502875,18,12 /UserServlet?method=register,200,,Thread Group 1-89,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,18,0,0
+1547119502893,1,13 /Login.jsp,200,,Thread Group 1-89,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119502894,9,14 /UserServlet?method=login,200,,Thread Group 1-89,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119502875,28,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-89,,true,,11260,2037,1,1,null,28,0,0
+1547119502972,2,11 /Register.jsp,200,,Thread Group 1-90,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119502972,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-90,,true,,1238,414,1,1,null,2,0,1
+1547119502974,12,12 /UserServlet?method=register,200,,Thread Group 1-90,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119502986,11,13 /Login.jsp,200,,Thread Group 1-90,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,11,0,0
+1547119502998,9,14 /UserServlet?method=login,200,,Thread Group 1-90,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119502974,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-90,,true,,11260,2037,1,1,null,32,1,0
+1547119503072,2,11 /Register.jsp,200,,Thread Group 1-91,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119503071,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-91,,true,,1238,414,1,1,null,2,1,0
+1547119503074,12,12 /UserServlet?method=register,200,,Thread Group 1-91,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119503087,1,13 /Login.jsp,200,,Thread Group 1-91,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119503088,11,14 /UserServlet?method=login,200,,Thread Group 1-91,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119503074,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-91,,true,,11260,2037,1,1,null,23,1,0
+1547119503172,3,11 /Register.jsp,200,,Thread Group 1-92,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119503172,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-92,,true,,1238,414,1,1,null,3,0,1
+1547119503175,12,12 /UserServlet?method=register,200,,Thread Group 1-92,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119503188,6,13 /Login.jsp,200,,Thread Group 1-92,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,6,0,0
+1547119503195,13,14 /UserServlet?method=login,200,,Thread Group 1-92,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119503175,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-92,,true,,11260,2037,1,1,null,31,2,0
+1547119503272,2,11 /Register.jsp,200,,Thread Group 1-93,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119503272,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-93,,true,,1238,414,1,1,null,2,1,1
+1547119503275,18,12 /UserServlet?method=register,200,,Thread Group 1-93,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,18,0,0
+1547119503293,1,13 /Login.jsp,200,,Thread Group 1-93,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119503294,10,14 /UserServlet?method=login,200,,Thread Group 1-93,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119503275,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-93,,true,,11260,2037,1,1,null,29,1,0
+1547119503372,2,11 /Register.jsp,200,,Thread Group 1-94,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119503371,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-94,,true,,1238,414,1,1,null,2,1,1
+1547119503374,15,12 /UserServlet?method=register,200,,Thread Group 1-94,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119503389,1,13 /Login.jsp,200,,Thread Group 1-94,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119503390,30,14 /UserServlet?method=login,200,,Thread Group 1-94,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,30,0,0
+1547119503374,46,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-94,,true,,11260,2037,1,1,null,45,0,0
+1547119503472,2,11 /Register.jsp,200,,Thread Group 1-95,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119503471,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-95,,true,,1238,414,1,1,null,2,1,0
+1547119503474,13,12 /UserServlet?method=register,200,,Thread Group 1-95,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119503487,8,13 /Login.jsp,200,,Thread Group 1-95,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,8,0,0
+1547119503495,35,14 /UserServlet?method=login,200,,Thread Group 1-95,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,34,0,0
+1547119503474,56,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-95,,true,,11260,2037,1,1,null,55,0,0
+1547119503573,1,11 /Register.jsp,200,,Thread Group 1-96,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119503572,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-96,,true,,1238,414,1,1,null,1,2,0
+1547119503575,13,12 /UserServlet?method=register,200,,Thread Group 1-96,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119503588,11,13 /Login.jsp,200,,Thread Group 1-96,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,11,0,0
+1547119503600,10,14 /UserServlet?method=login,200,,Thread Group 1-96,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119503575,34,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-96,,true,,11260,2037,1,1,null,34,1,0
+1547119503672,3,11 /Register.jsp,200,,Thread Group 1-97,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119503672,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-97,,true,,1238,414,1,1,null,3,0,1
+1547119503675,13,12 /UserServlet?method=register,200,,Thread Group 1-97,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119503688,2,13 /Login.jsp,200,,Thread Group 1-97,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119503690,20,14 /UserServlet?method=login,200,,Thread Group 1-97,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,20,0,0
+1547119503675,35,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-97,,true,,11260,2037,1,1,null,34,0,0
+1547119503772,2,11 /Register.jsp,200,,Thread Group 1-98,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119503771,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-98,,true,,1238,414,1,1,null,2,1,0
+1547119503774,11,12 /UserServlet?method=register,200,,Thread Group 1-98,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119503785,1,13 /Login.jsp,200,,Thread Group 1-98,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119503786,16,14 /UserServlet?method=login,200,,Thread Group 1-98,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,16,0,0
+1547119503774,28,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-98,,true,,11260,2037,1,1,null,28,0,0
+1547119503873,3,11 /Register.jsp,200,,Thread Group 1-99,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119503872,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-99,,true,,1238,414,1,1,null,2,1,0
+1547119503876,11,12 /UserServlet?method=register,200,,Thread Group 1-99,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119503887,1,13 /Login.jsp,200,,Thread Group 1-99,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119503888,18,14 /UserServlet?method=login,200,,Thread Group 1-99,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,18,0,0
+1547119503876,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-99,,true,,11260,2037,1,1,null,30,0,0
+1547119503972,2,11 /Register.jsp,200,,Thread Group 1-100,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119503972,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-100,,true,,1238,414,1,1,null,2,0,1
+1547119503975,10,12 /UserServlet?method=register,200,,Thread Group 1-100,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119503986,0,13 /Login.jsp,200,,Thread Group 1-100,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119503987,21,14 /UserServlet?method=login,200,,Thread Group 1-100,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,21,0,0
+1547119503974,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-100,,true,,11260,2037,1,1,null,31,3,0
+1547119504072,2,11 /Register.jsp,200,,Thread Group 1-101,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119504072,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-101,,true,,1238,414,1,1,null,2,0,0
+1547119504074,10,12 /UserServlet?method=register,200,,Thread Group 1-101,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119504084,1,13 /Login.jsp,200,,Thread Group 1-101,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119504085,10,14 /UserServlet?method=login,200,,Thread Group 1-101,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119504074,21,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-101,,true,,11260,2037,1,1,null,21,1,0
+1547119504173,2,11 /Register.jsp,200,,Thread Group 1-102,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119504172,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-102,,true,,1238,414,1,1,null,2,1,1
+1547119504175,11,12 /UserServlet?method=register,200,,Thread Group 1-102,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119504186,1,13 /Login.jsp,200,,Thread Group 1-102,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119504187,39,14 /UserServlet?method=login,200,,Thread Group 1-102,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,39,0,0
+1547119504175,51,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-102,,true,,11260,2037,1,1,null,51,0,0
+1547119504272,1,11 /Register.jsp,200,,Thread Group 1-103,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119504271,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-103,,true,,1238,414,1,1,null,1,2,0
+1547119504274,12,12 /UserServlet?method=register,200,,Thread Group 1-103,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119504286,1,13 /Login.jsp,200,,Thread Group 1-103,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119504287,9,14 /UserServlet?method=login,200,,Thread Group 1-103,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119504274,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-103,,true,,11260,2037,1,1,null,22,0,0
+1547119504371,2,11 /Register.jsp,200,,Thread Group 1-104,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119504371,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-104,,true,,1238,414,1,1,null,2,0,1
+1547119504374,12,12 /UserServlet?method=register,200,,Thread Group 1-104,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119504386,1,13 /Login.jsp,200,,Thread Group 1-104,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119504387,16,14 /UserServlet?method=login,200,,Thread Group 1-104,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,15,0,0
+1547119504373,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-104,,true,,11260,2037,1,1,null,28,1,0
+1547119504471,1,11 /Register.jsp,200,,Thread Group 1-105,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119504470,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-105,,true,,1238,414,1,1,null,1,2,0
+1547119504473,10,12 /UserServlet?method=register,200,,Thread Group 1-105,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119504483,1,13 /Login.jsp,200,,Thread Group 1-105,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119504484,9,14 /UserServlet?method=login,200,,Thread Group 1-105,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119504473,20,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-105,,true,,11260,2037,1,1,null,20,0,0
+1547119504572,2,11 /Register.jsp,200,,Thread Group 1-106,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119504571,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-106,,true,,1238,414,1,1,null,2,1,1
+1547119504574,11,12 /UserServlet?method=register,200,,Thread Group 1-106,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119504585,1,13 /Login.jsp,200,,Thread Group 1-106,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119504586,10,14 /UserServlet?method=login,200,,Thread Group 1-106,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119504574,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-106,,true,,11260,2037,1,1,null,21,0,0
+1547119504672,2,11 /Register.jsp,200,,Thread Group 1-107,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119504671,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-107,,true,,1238,414,1,1,null,2,1,0
+1547119504675,11,12 /UserServlet?method=register,200,,Thread Group 1-107,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119504687,0,13 /Login.jsp,200,,Thread Group 1-107,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119504688,13,14 /UserServlet?method=login,200,,Thread Group 1-107,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119504674,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-107,,true,,11260,2037,1,1,null,24,3,0
+1547119504771,2,11 /Register.jsp,200,,Thread Group 1-108,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119504771,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-108,,true,,1238,414,1,1,null,2,0,1
+1547119504773,12,12 /UserServlet?method=register,200,,Thread Group 1-108,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119504786,0,13 /Login.jsp,200,,Thread Group 1-108,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119504787,13,14 /UserServlet?method=login,200,,Thread Group 1-108,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119504773,25,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-108,,true,,11260,2037,1,1,null,25,2,0
+1547119504871,1,11 /Register.jsp,200,,Thread Group 1-109,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119504870,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-109,,true,,1238,414,1,1,null,1,1,0
+1547119504873,10,12 /UserServlet?method=register,200,,Thread Group 1-109,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119504883,1,13 /Login.jsp,200,,Thread Group 1-109,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119504884,19,14 /UserServlet?method=login,200,,Thread Group 1-109,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,19,0,0
+1547119504872,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-109,,true,,11260,2037,1,1,null,30,1,0
+1547119504971,2,11 /Register.jsp,200,,Thread Group 1-110,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119504971,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-110,,true,,1238,414,1,1,null,2,0,1
+1547119504973,21,12 /UserServlet?method=register,200,,Thread Group 1-110,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,21,0,0
+1547119504994,1,13 /Login.jsp,200,,Thread Group 1-110,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119504995,9,14 /UserServlet?method=login,200,,Thread Group 1-110,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119504973,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-110,,true,,11260,2037,1,1,null,31,0,0
+1547119505087,2,11 /Register.jsp,200,,Thread Group 1-111,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119505087,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-111,,true,,1238,414,1,1,null,2,0,1
+1547119505089,12,12 /UserServlet?method=register,200,,Thread Group 1-111,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119505101,1,13 /Login.jsp,200,,Thread Group 1-111,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119505103,8,14 /UserServlet?method=login,200,,Thread Group 1-111,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119505089,21,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-111,,true,,11260,2037,1,1,null,21,2,0
+1547119505186,2,11 /Register.jsp,200,,Thread Group 1-112,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119505186,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-112,,true,,1238,414,1,1,null,2,0,1
+1547119505188,13,12 /UserServlet?method=register,200,,Thread Group 1-112,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119505201,5,13 /Login.jsp,200,,Thread Group 1-112,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,5,0,0
+1547119505206,16,14 /UserServlet?method=login,200,,Thread Group 1-112,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,15,0,0
+1547119505188,34,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-112,,true,,11260,2037,1,1,null,33,0,0
+1547119505287,1,11 /Register.jsp,200,,Thread Group 1-113,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119505286,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-113,,true,,1238,414,1,1,null,1,2,0
+1547119505289,13,12 /UserServlet?method=register,200,,Thread Group 1-113,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119505302,0,13 /Login.jsp,200,,Thread Group 1-113,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119505303,11,14 /UserServlet?method=login,200,,Thread Group 1-113,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119505289,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-113,,true,,11260,2037,1,1,null,24,1,0
+1547119505387,2,11 /Register.jsp,200,,Thread Group 1-114,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119505386,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-114,,true,,1238,414,1,1,null,2,1,1
+1547119505390,30,12 /UserServlet?method=register,200,,Thread Group 1-114,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,30,0,0
+1547119505420,1,13 /Login.jsp,200,,Thread Group 1-114,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119505421,13,14 /UserServlet?method=login,200,,Thread Group 1-114,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,13,0,0
+1547119505389,44,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-114,,true,,11260,2037,1,1,null,44,1,0
+1547119505486,2,11 /Register.jsp,200,,Thread Group 1-115,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119505486,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-115,,true,,1238,414,1,1,null,2,0,1
+1547119505488,14,12 /UserServlet?method=register,200,,Thread Group 1-115,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119505503,4,13 /Login.jsp,200,,Thread Group 1-115,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,4,0,0
+1547119505507,22,14 /UserServlet?method=login,200,,Thread Group 1-115,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,21,0,0
+1547119505488,40,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-115,,true,,11260,2037,1,1,null,39,1,0
+1547119505587,2,11 /Register.jsp,200,,Thread Group 1-116,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119505586,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-116,,true,,1238,414,1,1,null,2,1,1
+1547119505589,11,12 /UserServlet?method=register,200,,Thread Group 1-116,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119505600,6,13 /Login.jsp,200,,Thread Group 1-116,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,6,0,0
+1547119505606,9,14 /UserServlet?method=login,200,,Thread Group 1-116,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119505589,26,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-116,,true,,11260,2037,1,1,null,26,0,0
+1547119505687,1,11 /Register.jsp,200,,Thread Group 1-117,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119505686,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-117,,true,,1238,414,1,1,null,1,1,0
+1547119505689,12,12 /UserServlet?method=register,200,,Thread Group 1-117,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119505701,1,13 /Login.jsp,200,,Thread Group 1-117,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119505703,18,14 /UserServlet?method=login,200,,Thread Group 1-117,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,18,0,0
+1547119505688,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-117,,true,,11260,2037,1,1,null,31,2,0
+1547119505786,6,11 /Register.jsp,200,,Thread Group 1-118,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,6,0,1
+1547119505786,6,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-118,,true,,1238,414,1,1,null,6,0,1
+1547119505792,20,12 /UserServlet?method=register,200,,Thread Group 1-118,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,20,0,0
+1547119505812,1,13 /Login.jsp,200,,Thread Group 1-118,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119505813,11,14 /UserServlet?method=login,200,,Thread Group 1-118,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119505792,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-118,,true,,11260,2037,1,1,null,32,0,0
+1547119505886,2,11 /Register.jsp,200,,Thread Group 1-119,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119505886,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-119,,true,,1238,414,1,1,null,2,0,1
+1547119505888,13,12 /UserServlet?method=register,200,,Thread Group 1-119,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119505901,1,13 /Login.jsp,200,,Thread Group 1-119,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119505903,8,14 /UserServlet?method=login,200,,Thread Group 1-119,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119505888,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-119,,true,,11260,2037,1,1,null,22,1,0
+1547119505988,2,11 /Register.jsp,200,,Thread Group 1-120,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119505987,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-120,,true,,1238,414,1,1,null,2,1,1
+1547119505990,12,12 /UserServlet?method=register,200,,Thread Group 1-120,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119506003,10,13 /Login.jsp,200,,Thread Group 1-120,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,10,0,0
+1547119506013,9,14 /UserServlet?method=login,200,,Thread Group 1-120,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119505990,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-120,,true,,11260,2037,1,1,null,31,1,0
+1547119506087,9,11 /Register.jsp,200,,Thread Group 1-121,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,9,0,1
+1547119506086,9,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-121,,true,,1238,414,1,1,null,9,2,1
+1547119506097,14,12 /UserServlet?method=register,200,,Thread Group 1-121,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119506111,1,13 /Login.jsp,200,,Thread Group 1-121,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119506112,10,14 /UserServlet?method=login,200,,Thread Group 1-121,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119506097,25,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-121,,true,,11260,2037,1,1,null,25,0,0
+1547119506188,3,11 /Register.jsp,200,,Thread Group 1-122,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119506187,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-122,,true,,1238,414,1,1,null,3,1,1
+1547119506191,22,12 /UserServlet?method=register,200,,Thread Group 1-122,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,22,0,0
+1547119506213,1,13 /Login.jsp,200,,Thread Group 1-122,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119506214,9,14 /UserServlet?method=login,200,,Thread Group 1-122,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119506191,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-122,,true,,11260,2037,1,1,null,32,1,0
+1547119506288,1,11 /Register.jsp,200,,Thread Group 1-123,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119506287,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-123,,true,,1238,414,1,1,null,1,1,0
+1547119506289,15,12 /UserServlet?method=register,200,,Thread Group 1-123,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119506305,1,13 /Login.jsp,200,,Thread Group 1-123,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119506306,11,14 /UserServlet?method=login,200,,Thread Group 1-123,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119506289,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-123,,true,,11260,2037,1,1,null,27,1,0
+1547119506387,3,11 /Register.jsp,200,,Thread Group 1-124,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119506387,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-124,,true,,1238,414,1,1,null,3,0,1
+1547119506390,12,12 /UserServlet?method=register,200,,Thread Group 1-124,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119506403,5,13 /Login.jsp,200,,Thread Group 1-124,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,5,0,0
+1547119506409,17,14 /UserServlet?method=login,200,,Thread Group 1-124,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,17,0,0
+1547119506390,34,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-124,,true,,11260,2037,1,1,null,34,3,0
+1547119506486,2,11 /Register.jsp,200,,Thread Group 1-125,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119506485,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-125,,true,,1238,414,1,1,null,2,1,1
+1547119506489,11,12 /UserServlet?method=register,200,,Thread Group 1-125,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119506501,11,13 /Login.jsp,200,,Thread Group 1-125,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,11,0,0
+1547119506512,10,14 /UserServlet?method=login,200,,Thread Group 1-125,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119506488,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-125,,true,,11260,2037,1,1,null,32,3,0
+1547119506588,2,11 /Register.jsp,200,,Thread Group 1-126,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119506587,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-126,,true,,1238,414,1,1,null,2,1,1
+1547119506591,16,12 /UserServlet?method=register,200,,Thread Group 1-126,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,16,0,0
+1547119506608,1,13 /Login.jsp,200,,Thread Group 1-126,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119506609,10,14 /UserServlet?method=login,200,,Thread Group 1-126,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119506590,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-126,,true,,11260,2037,1,1,null,26,2,0
+1547119506687,1,11 /Register.jsp,200,,Thread Group 1-127,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,1
+1547119506686,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-127,,true,,1238,414,1,1,null,1,2,1
+1547119506689,11,12 /UserServlet?method=register,200,,Thread Group 1-127,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119506700,1,13 /Login.jsp,200,,Thread Group 1-127,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119506701,17,14 /UserServlet?method=login,200,,Thread Group 1-127,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,17,0,0
+1547119506689,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-127,,true,,11260,2037,1,1,null,29,0,0
+1547119506787,3,11 /Register.jsp,200,,Thread Group 1-128,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119506787,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-128,,true,,1238,414,1,1,null,2,0,1
+1547119506790,11,12 /UserServlet?method=register,200,,Thread Group 1-128,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119506801,1,13 /Login.jsp,200,,Thread Group 1-128,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119506803,24,14 /UserServlet?method=login,200,,Thread Group 1-128,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,24,0,0
+1547119506790,36,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-128,,true,,11260,2037,1,1,null,35,1,0
+1547119506887,3,11 /Register.jsp,200,,Thread Group 1-129,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119506886,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-129,,true,,1238,414,1,1,null,3,1,1
+1547119506890,12,12 /UserServlet?method=register,200,,Thread Group 1-129,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119506902,2,13 /Login.jsp,200,,Thread Group 1-129,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119506904,8,14 /UserServlet?method=login,200,,Thread Group 1-129,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119506890,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-129,,true,,11260,2037,1,1,null,22,0,0
+1547119506987,3,11 /Register.jsp,200,,Thread Group 1-130,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,2
+1547119506987,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-130,,true,,1238,414,1,1,null,3,1,2
+1547119506991,11,12 /UserServlet?method=register,200,,Thread Group 1-130,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119507002,6,13 /Login.jsp,200,,Thread Group 1-130,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,6,0,0
+1547119507008,9,14 /UserServlet?method=login,200,,Thread Group 1-130,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119506991,26,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-130,,true,,11260,2037,1,1,null,26,0,0
+1547119507087,2,11 /Register.jsp,200,,Thread Group 1-131,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119507087,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-131,,true,,1238,414,1,1,null,2,0,1
+1547119507089,11,12 /UserServlet?method=register,200,,Thread Group 1-131,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119507100,1,13 /Login.jsp,200,,Thread Group 1-131,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119507101,10,14 /UserServlet?method=login,200,,Thread Group 1-131,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119507089,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-131,,true,,11260,2037,1,1,null,22,0,0
+1547119507187,2,11 /Register.jsp,200,,Thread Group 1-132,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119507187,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-132,,true,,1238,414,1,1,null,2,0,1
+1547119507189,13,12 /UserServlet?method=register,200,,Thread Group 1-132,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119507202,1,13 /Login.jsp,200,,Thread Group 1-132,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119507203,9,14 /UserServlet?method=login,200,,Thread Group 1-132,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119507189,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-132,,true,,11260,2037,1,1,null,22,0,0
+1547119507287,2,11 /Register.jsp,200,,Thread Group 1-133,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119507287,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-133,,true,,1238,414,1,1,null,2,0,1
+1547119507289,11,12 /UserServlet?method=register,200,,Thread Group 1-133,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119507300,1,13 /Login.jsp,200,,Thread Group 1-133,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119507301,10,14 /UserServlet?method=login,200,,Thread Group 1-133,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119507289,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-133,,true,,11260,2037,1,1,null,22,0,0
+1547119507387,2,11 /Register.jsp,200,,Thread Group 1-134,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119507386,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-134,,true,,1238,414,1,1,null,2,1,0
+1547119507389,12,12 /UserServlet?method=register,200,,Thread Group 1-134,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119507401,1,13 /Login.jsp,200,,Thread Group 1-134,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119507402,9,14 /UserServlet?method=login,200,,Thread Group 1-134,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119507389,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-134,,true,,11260,2037,1,1,null,22,1,0
+1547119507487,1,11 /Register.jsp,200,,Thread Group 1-135,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119507486,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-135,,true,,1238,414,1,1,null,1,1,0
+1547119507488,20,12 /UserServlet?method=register,200,,Thread Group 1-135,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,20,0,0
+1547119507509,0,13 /Login.jsp,200,,Thread Group 1-135,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119507510,8,14 /UserServlet?method=login,200,,Thread Group 1-135,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119507488,28,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-135,,true,,11260,2037,1,1,null,28,2,0
+1547119507603,2,11 /Register.jsp,200,,Thread Group 1-136,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119507603,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-136,,true,,1238,414,1,1,null,2,0,1
+1547119507605,21,12 /UserServlet?method=register,200,,Thread Group 1-136,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,21,0,0
+1547119507626,8,13 /Login.jsp,200,,Thread Group 1-136,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,8,0,0
+1547119507634,10,14 /UserServlet?method=login,200,,Thread Group 1-136,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119507605,39,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-136,,true,,11260,2037,1,1,null,39,0,0
+1547119507703,2,11 /Register.jsp,200,,Thread Group 1-137,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119507702,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-137,,true,,1238,414,1,1,null,2,1,0
+1547119507705,13,12 /UserServlet?method=register,200,,Thread Group 1-137,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119507719,1,13 /Login.jsp,200,,Thread Group 1-137,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119507720,14,14 /UserServlet?method=login,200,,Thread Group 1-137,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,14,0,0
+1547119507705,28,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-137,,true,,11260,2037,1,1,null,28,1,0
+1547119507803,1,11 /Register.jsp,200,,Thread Group 1-138,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119507802,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-138,,true,,1238,414,1,1,null,1,1,0
+1547119507805,11,12 /UserServlet?method=register,200,,Thread Group 1-138,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119507816,1,13 /Login.jsp,200,,Thread Group 1-138,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119507818,11,14 /UserServlet?method=login,200,,Thread Group 1-138,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119507805,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-138,,true,,11260,2037,1,1,null,23,1,0
+1547119507904,2,11 /Register.jsp,200,,Thread Group 1-139,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119507903,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-139,,true,,1238,414,1,1,null,2,1,1
+1547119507906,13,12 /UserServlet?method=register,200,,Thread Group 1-139,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119507920,1,13 /Login.jsp,200,,Thread Group 1-139,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119507921,12,14 /UserServlet?method=login,200,,Thread Group 1-139,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119507906,26,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-139,,true,,11260,2037,1,1,null,25,1,0
+1547119508003,2,11 /Register.jsp,200,,Thread Group 1-140,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119508003,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-140,,true,,1238,414,1,1,null,2,0,1
+1547119508005,23,12 /UserServlet?method=register,200,,Thread Group 1-140,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,23,0,0
+1547119508028,1,13 /Login.jsp,200,,Thread Group 1-140,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119508029,9,14 /UserServlet?method=login,200,,Thread Group 1-140,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119508005,33,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-140,,true,,11260,2037,1,1,null,33,0,0
+1547119508103,2,11 /Register.jsp,200,,Thread Group 1-141,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119508102,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-141,,true,,1238,414,1,1,null,2,1,1
+1547119508105,12,12 /UserServlet?method=register,200,,Thread Group 1-141,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119508117,1,13 /Login.jsp,200,,Thread Group 1-141,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119508118,11,14 /UserServlet?method=login,200,,Thread Group 1-141,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119508105,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-141,,true,,11260,2037,1,1,null,24,0,0
+1547119508203,2,11 /Register.jsp,200,,Thread Group 1-142,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119508203,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-142,,true,,1238,414,1,1,null,2,1,1
+1547119508206,26,12 /UserServlet?method=register,200,,Thread Group 1-142,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,26,0,0
+1547119508232,11,13 /Login.jsp,200,,Thread Group 1-142,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,11,0,0
+1547119508243,10,14 /UserServlet?method=login,200,,Thread Group 1-142,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119508206,47,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-142,,true,,11260,2037,1,1,null,47,0,0
+1547119508303,2,11 /Register.jsp,200,,Thread Group 1-143,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119508303,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-143,,true,,1238,414,1,1,null,2,0,1
+1547119508305,13,12 /UserServlet?method=register,200,,Thread Group 1-143,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119508318,1,13 /Login.jsp,200,,Thread Group 1-143,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119508319,24,14 /UserServlet?method=login,200,,Thread Group 1-143,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,24,0,0
+1547119508305,38,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-143,,true,,11260,2037,1,1,null,38,0,0
+1547119508403,3,11 /Register.jsp,200,,Thread Group 1-144,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119508402,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-144,,true,,1238,414,1,1,null,3,1,1
+1547119508407,10,12 /UserServlet?method=register,200,,Thread Group 1-144,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119508417,1,13 /Login.jsp,200,,Thread Group 1-144,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119508418,31,14 /UserServlet?method=login,200,,Thread Group 1-144,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,31,0,0
+1547119508406,42,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-144,,true,,11260,2037,1,1,null,42,1,0
+1547119508502,2,11 /Register.jsp,200,,Thread Group 1-145,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119508502,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-145,,true,,1238,414,1,1,null,2,0,1
+1547119508504,11,12 /UserServlet?method=register,200,,Thread Group 1-145,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119508516,10,13 /Login.jsp,200,,Thread Group 1-145,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,10,0,0
+1547119508527,23,14 /UserServlet?method=login,200,,Thread Group 1-145,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,23,0,0
+1547119508504,44,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-145,,true,,11260,2037,1,1,null,44,2,0
+1547119508603,2,11 /Register.jsp,200,,Thread Group 1-146,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119508603,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-146,,true,,1238,414,1,1,null,2,0,1
+1547119508605,11,12 /UserServlet?method=register,200,,Thread Group 1-146,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119508617,0,13 /Login.jsp,200,,Thread Group 1-146,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119508618,11,14 /UserServlet?method=login,200,,Thread Group 1-146,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119508605,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-146,,true,,11260,2037,1,1,null,22,2,0
+1547119508703,2,11 /Register.jsp,200,,Thread Group 1-147,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119508703,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-147,,true,,1238,414,1,1,null,2,0,1
+1547119508705,11,12 /UserServlet?method=register,200,,Thread Group 1-147,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119508716,6,13 /Login.jsp,200,,Thread Group 1-147,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,6,0,0
+1547119508722,18,14 /UserServlet?method=login,200,,Thread Group 1-147,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,18,0,0
+1547119508705,35,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-147,,true,,11260,2037,1,1,null,34,0,0
+1547119508803,1,11 /Register.jsp,200,,Thread Group 1-148,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,1
+1547119508802,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-148,,true,,1238,414,1,1,null,1,2,1
+1547119508805,19,12 /UserServlet?method=register,200,,Thread Group 1-148,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,19,0,0
+1547119508824,1,13 /Login.jsp,200,,Thread Group 1-148,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119508825,11,14 /UserServlet?method=login,200,,Thread Group 1-148,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119508805,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-148,,true,,11260,2037,1,1,null,31,0,0
+1547119508902,2,11 /Register.jsp,200,,Thread Group 1-149,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119508902,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-149,,true,,1238,414,1,1,null,2,0,1
+1547119508904,10,12 /UserServlet?method=register,200,,Thread Group 1-149,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119508914,1,13 /Login.jsp,200,,Thread Group 1-149,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119508915,9,14 /UserServlet?method=login,200,,Thread Group 1-149,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119508904,20,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-149,,true,,11260,2037,1,1,null,20,0,0
+1547119509003,2,11 /Register.jsp,200,,Thread Group 1-150,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119509003,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-150,,true,,1238,414,1,1,null,2,0,1
+1547119509005,11,12 /UserServlet?method=register,200,,Thread Group 1-150,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119509016,1,13 /Login.jsp,200,,Thread Group 1-150,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119509017,10,14 /UserServlet?method=login,200,,Thread Group 1-150,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119509005,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-150,,true,,11260,2037,1,1,null,22,0,0
+1547119509103,2,11 /Register.jsp,200,,Thread Group 1-151,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119509103,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-151,,true,,1238,414,1,1,null,2,0,1
+1547119509105,11,12 /UserServlet?method=register,200,,Thread Group 1-151,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119509116,1,13 /Login.jsp,200,,Thread Group 1-151,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119509117,10,14 /UserServlet?method=login,200,,Thread Group 1-151,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119509105,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-151,,true,,11260,2037,1,1,null,22,0,0
+1547119509204,2,11 /Register.jsp,200,,Thread Group 1-152,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119509202,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-152,,true,,1238,414,1,1,null,2,2,0
+1547119509206,11,12 /UserServlet?method=register,200,,Thread Group 1-152,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119509217,2,13 /Login.jsp,200,,Thread Group 1-152,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119509219,28,14 /UserServlet?method=login,200,,Thread Group 1-152,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,28,0,0
+1547119509206,41,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-152,,true,,11260,2037,1,1,null,41,1,0
+1547119509302,2,11 /Register.jsp,200,,Thread Group 1-153,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119509302,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-153,,true,,1238,414,1,1,null,2,0,1
+1547119509304,19,12 /UserServlet?method=register,200,,Thread Group 1-153,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,19,0,0
+1547119509323,15,13 /Login.jsp,200,,Thread Group 1-153,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,15,0,0
+1547119509338,11,14 /UserServlet?method=login,200,,Thread Group 1-153,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119509304,45,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-153,,true,,11260,2037,1,1,null,45,0,0
+1547119509402,2,11 /Register.jsp,200,,Thread Group 1-154,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119509402,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-154,,true,,1238,414,1,1,null,2,0,1
+1547119509404,11,12 /UserServlet?method=register,200,,Thread Group 1-154,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119509415,3,13 /Login.jsp,200,,Thread Group 1-154,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,3,0,0
+1547119509419,15,14 /UserServlet?method=login,200,,Thread Group 1-154,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,15,0,0
+1547119509404,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-154,,true,,11260,2037,1,1,null,29,1,0
+1547119509503,1,11 /Register.jsp,200,,Thread Group 1-155,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,1
+1547119509502,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-155,,true,,1238,414,1,1,null,1,2,1
+1547119509505,11,12 /UserServlet?method=register,200,,Thread Group 1-155,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119509516,1,13 /Login.jsp,200,,Thread Group 1-155,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119509517,17,14 /UserServlet?method=login,200,,Thread Group 1-155,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,17,0,0
+1547119509505,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-155,,true,,11260,2037,1,1,null,29,1,0
+1547119509603,1,11 /Register.jsp,200,,Thread Group 1-156,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119509602,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-156,,true,,1238,414,1,1,null,1,2,0
+1547119509605,14,12 /UserServlet?method=register,200,,Thread Group 1-156,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119509620,0,13 /Login.jsp,200,,Thread Group 1-156,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119509621,9,14 /UserServlet?method=login,200,,Thread Group 1-156,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119509605,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-156,,true,,11260,2037,1,1,null,23,2,0
+1547119509702,3,11 /Register.jsp,200,,Thread Group 1-157,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119509702,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-157,,true,,1238,414,1,1,null,3,0,1
+1547119509705,11,12 /UserServlet?method=register,200,,Thread Group 1-157,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119509716,1,13 /Login.jsp,200,,Thread Group 1-157,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119509717,27,14 /UserServlet?method=login,200,,Thread Group 1-157,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,27,0,0
+1547119509705,39,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-157,,true,,11260,2037,1,1,null,39,0,0
+1547119509803,2,11 /Register.jsp,200,,Thread Group 1-158,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119509802,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-158,,true,,1238,414,1,1,null,1,1,0
+1547119509805,16,12 /UserServlet?method=register,200,,Thread Group 1-158,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119509821,1,13 /Login.jsp,200,,Thread Group 1-158,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119509822,12,14 /UserServlet?method=login,200,,Thread Group 1-158,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119509805,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-158,,true,,11260,2037,1,1,null,28,0,0
+1547119509902,1,11 /Register.jsp,200,,Thread Group 1-159,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119509901,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-159,,true,,1238,414,1,1,null,1,1,0
+1547119509904,12,12 /UserServlet?method=register,200,,Thread Group 1-159,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119509916,1,13 /Login.jsp,200,,Thread Group 1-159,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119509917,20,14 /UserServlet?method=login,200,,Thread Group 1-159,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,20,0,0
+1547119509903,33,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-159,,true,,11260,2037,1,1,null,33,1,0
+1547119510003,1,11 /Register.jsp,200,,Thread Group 1-160,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119510002,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-160,,true,,1238,414,1,1,null,1,1,0
+1547119510005,40,12 /UserServlet?method=register,200,,Thread Group 1-160,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,40,0,0
+1547119510045,2,13 /Login.jsp,200,,Thread Group 1-160,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119510047,10,14 /UserServlet?method=login,200,,Thread Group 1-160,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119510004,52,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-160,,true,,11260,2037,1,1,null,52,1,0
+1547119510102,2,11 /Register.jsp,200,,Thread Group 1-161,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119510102,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-161,,true,,1238,414,1,1,null,2,0,1
+1547119510105,10,12 /UserServlet?method=register,200,,Thread Group 1-161,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119510116,0,13 /Login.jsp,200,,Thread Group 1-161,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119510117,10,14 /UserServlet?method=login,200,,Thread Group 1-161,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119510104,20,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-161,,true,,11260,2037,1,1,null,20,3,0
+1547119510203,4,11 /Register.jsp,200,,Thread Group 1-162,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,4,0,1
+1547119510202,4,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-162,,true,,1238,414,1,1,null,4,1,1
+1547119510207,12,12 /UserServlet?method=register,200,,Thread Group 1-162,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119510219,1,13 /Login.jsp,200,,Thread Group 1-162,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119510221,8,14 /UserServlet?method=login,200,,Thread Group 1-162,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119510207,21,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-162,,true,,11260,2037,1,1,null,21,2,0
+1547119510303,2,11 /Register.jsp,200,,Thread Group 1-163,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119510303,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-163,,true,,1238,414,1,1,null,2,0,1
+1547119510305,11,12 /UserServlet?method=register,200,,Thread Group 1-163,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119510316,1,13 /Login.jsp,200,,Thread Group 1-163,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119510317,15,14 /UserServlet?method=login,200,,Thread Group 1-163,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,15,0,0
+1547119510305,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-163,,true,,11260,2037,1,1,null,27,0,0
+1547119510403,2,11 /Register.jsp,200,,Thread Group 1-164,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119510403,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-164,,true,,1238,414,1,1,null,2,0,0
+1547119510405,10,12 /UserServlet?method=register,200,,Thread Group 1-164,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119510415,3,13 /Login.jsp,200,,Thread Group 1-164,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,3,0,0
+1547119510418,11,14 /UserServlet?method=login,200,,Thread Group 1-164,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119510405,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-164,,true,,11260,2037,1,1,null,24,0,0
+1547119510504,2,11 /Register.jsp,200,,Thread Group 1-165,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119510503,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-165,,true,,1238,414,1,1,null,2,1,1
+1547119510506,20,12 /UserServlet?method=register,200,,Thread Group 1-165,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,20,0,0
+1547119510526,1,13 /Login.jsp,200,,Thread Group 1-165,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119510527,19,14 /UserServlet?method=login,200,,Thread Group 1-165,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,19,0,0
+1547119510506,40,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-165,,true,,11260,2037,1,1,null,40,0,0
+1547119510603,1,11 /Register.jsp,200,,Thread Group 1-166,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119510602,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-166,,true,,1238,414,1,1,null,1,1,0
+1547119510604,17,12 /UserServlet?method=register,200,,Thread Group 1-166,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,17,0,0
+1547119510621,1,13 /Login.jsp,200,,Thread Group 1-166,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119510622,11,14 /UserServlet?method=login,200,,Thread Group 1-166,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119510604,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-166,,true,,11260,2037,1,1,null,29,0,0
+1547119510703,3,11 /Register.jsp,200,,Thread Group 1-167,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119510703,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-167,,true,,1238,414,1,1,null,3,0,1
+1547119510706,13,12 /UserServlet?method=register,200,,Thread Group 1-167,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119510719,1,13 /Login.jsp,200,,Thread Group 1-167,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119510720,21,14 /UserServlet?method=login,200,,Thread Group 1-167,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,21,0,0
+1547119510706,35,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-167,,true,,11260,2037,1,1,null,35,0,0
+1547119510803,2,11 /Register.jsp,200,,Thread Group 1-168,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119510802,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-168,,true,,1238,414,1,1,null,2,1,1
+1547119510805,13,12 /UserServlet?method=register,200,,Thread Group 1-168,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119510818,7,13 /Login.jsp,200,,Thread Group 1-168,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,7,0,0
+1547119510825,25,14 /UserServlet?method=login,200,,Thread Group 1-168,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,25,0,0
+1547119510805,45,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-168,,true,,11260,2037,1,1,null,45,0,0
+1547119510903,2,11 /Register.jsp,200,,Thread Group 1-169,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119510902,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-169,,true,,1238,414,1,1,null,2,1,1
+1547119510906,25,12 /UserServlet?method=register,200,,Thread Group 1-169,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,25,0,0
+1547119510931,1,13 /Login.jsp,200,,Thread Group 1-169,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119510932,10,14 /UserServlet?method=login,200,,Thread Group 1-169,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119510905,36,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-169,,true,,11260,2037,1,1,null,36,2,0
+1547119511004,1,11 /Register.jsp,200,,Thread Group 1-170,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119511003,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-170,,true,,1238,414,1,1,null,1,2,0
+1547119511006,15,12 /UserServlet?method=register,200,,Thread Group 1-170,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,15,0,0
+1547119511021,7,13 /Login.jsp,200,,Thread Group 1-170,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,7,0,0
+1547119511029,12,14 /UserServlet?method=login,200,,Thread Group 1-170,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119511006,34,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-170,,true,,11260,2037,1,1,null,34,1,0
+1547119511103,2,11 /Register.jsp,200,,Thread Group 1-171,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119511103,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-171,,true,,1238,414,1,1,null,2,0,1
+1547119511105,13,12 /UserServlet?method=register,200,,Thread Group 1-171,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119511118,2,13 /Login.jsp,200,,Thread Group 1-171,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119511120,9,14 /UserServlet?method=login,200,,Thread Group 1-171,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119511105,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-171,,true,,11260,2037,1,1,null,24,0,0
+1547119511203,2,11 /Register.jsp,200,,Thread Group 1-172,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119511202,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-172,,true,,1238,414,1,1,null,2,1,1
+1547119511205,13,12 /UserServlet?method=register,200,,Thread Group 1-172,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119511218,1,13 /Login.jsp,200,,Thread Group 1-172,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119511219,8,14 /UserServlet?method=login,200,,Thread Group 1-172,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119511205,22,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-172,,true,,11260,2037,1,1,null,22,0,0
+1547119511303,2,11 /Register.jsp,200,,Thread Group 1-173,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119511303,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-173,,true,,1238,414,1,1,null,2,0,1
+1547119511305,13,12 /UserServlet?method=register,200,,Thread Group 1-173,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119511318,1,13 /Login.jsp,200,,Thread Group 1-173,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119511319,9,14 /UserServlet?method=login,200,,Thread Group 1-173,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119511305,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-173,,true,,11260,2037,1,1,null,22,0,0
+1547119511403,2,11 /Register.jsp,200,,Thread Group 1-174,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119511403,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-174,,true,,1238,414,1,1,null,2,0,1
+1547119511405,12,12 /UserServlet?method=register,200,,Thread Group 1-174,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119511417,1,13 /Login.jsp,200,,Thread Group 1-174,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119511418,11,14 /UserServlet?method=login,200,,Thread Group 1-174,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119511405,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-174,,true,,11260,2037,1,1,null,24,0,0
+1547119511503,1,11 /Register.jsp,200,,Thread Group 1-175,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119511502,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-175,,true,,1238,414,1,1,null,1,2,0
+1547119511505,12,12 /UserServlet?method=register,200,,Thread Group 1-175,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119511517,2,13 /Login.jsp,200,,Thread Group 1-175,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119511520,9,14 /UserServlet?method=login,200,,Thread Group 1-175,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119511505,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-175,,true,,11260,2037,1,1,null,23,1,0
+1547119511603,2,11 /Register.jsp,200,,Thread Group 1-176,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119511602,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-176,,true,,1238,414,1,1,null,2,1,0
+1547119511605,21,12 /UserServlet?method=register,200,,Thread Group 1-176,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,21,0,0
+1547119511626,1,13 /Login.jsp,200,,Thread Group 1-176,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119511627,7,14 /UserServlet?method=login,200,,Thread Group 1-176,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,7,0,0
+1547119511605,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-176,,true,,11260,2037,1,1,null,29,0,0
+1547119511703,2,11 /Register.jsp,200,,Thread Group 1-177,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119511703,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-177,,true,,1238,414,1,1,null,2,0,1
+1547119511705,13,12 /UserServlet?method=register,200,,Thread Group 1-177,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119511719,8,13 /Login.jsp,200,,Thread Group 1-177,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,8,0,0
+1547119511727,9,14 /UserServlet?method=login,200,,Thread Group 1-177,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119511705,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-177,,true,,11260,2037,1,1,null,30,1,0
+1547119511803,2,11 /Register.jsp,200,,Thread Group 1-178,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119511802,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-178,,true,,1238,414,1,1,null,2,1,1
+1547119511806,19,12 /UserServlet?method=register,200,,Thread Group 1-178,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,19,0,0
+1547119511826,0,13 /Login.jsp,200,,Thread Group 1-178,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119511827,8,14 /UserServlet?method=login,200,,Thread Group 1-178,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119511805,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-178,,true,,11260,2037,1,1,null,27,3,0
+1547119511903,2,11 /Register.jsp,200,,Thread Group 1-179,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119511902,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-179,,true,,1238,414,1,1,null,2,2,1
+1547119511906,13,12 /UserServlet?method=register,200,,Thread Group 1-179,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119511920,0,13 /Login.jsp,200,,Thread Group 1-179,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119511921,18,14 /UserServlet?method=login,200,,Thread Group 1-179,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,18,0,0
+1547119511906,31,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-179,,true,,11260,2037,1,1,null,31,2,0
+1547119512004,7,11 /Register.jsp,200,,Thread Group 1-180,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,7,0,1
+1547119512003,7,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-180,,true,,1238,414,1,1,null,7,1,1
+1547119512012,23,12 /UserServlet?method=register,200,,Thread Group 1-180,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,23,0,0
+1547119512036,0,13 /Login.jsp,200,,Thread Group 1-180,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119512037,21,14 /UserServlet?method=login,200,,Thread Group 1-180,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,21,0,0
+1547119512011,44,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-180,,true,,11260,2037,1,1,null,44,3,0
+1547119512103,2,11 /Register.jsp,200,,Thread Group 1-181,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119512103,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-181,,true,,1238,414,1,1,null,2,0,1
+1547119512105,13,12 /UserServlet?method=register,200,,Thread Group 1-181,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119512118,2,13 /Login.jsp,200,,Thread Group 1-181,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,2,0,0
+1547119512120,8,14 /UserServlet?method=login,200,,Thread Group 1-181,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119512105,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-181,,true,,11260,2037,1,1,null,23,1,0
+1547119512203,2,11 /Register.jsp,200,,Thread Group 1-182,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,2
+1547119512202,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-182,,true,,1238,414,1,1,null,2,2,2
+1547119512206,10,12 /UserServlet?method=register,200,,Thread Group 1-182,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119512216,1,13 /Login.jsp,200,,Thread Group 1-182,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119512217,8,14 /UserServlet?method=login,200,,Thread Group 1-182,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,7,0,0
+1547119512206,19,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-182,,true,,11260,2037,1,1,null,18,0,0
+1547119512304,1,11 /Register.jsp,200,,Thread Group 1-183,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119512303,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-183,,true,,1238,414,1,1,null,1,2,0
+1547119512306,12,12 /UserServlet?method=register,200,,Thread Group 1-183,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119512319,0,13 /Login.jsp,200,,Thread Group 1-183,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119512320,14,14 /UserServlet?method=login,200,,Thread Group 1-183,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,14,0,0
+1547119512306,26,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-183,,true,,11260,2037,1,1,null,26,2,0
+1547119512403,1,11 /Register.jsp,200,,Thread Group 1-184,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119512402,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-184,,true,,1238,414,1,1,null,1,2,0
+1547119512405,13,12 /UserServlet?method=register,200,,Thread Group 1-184,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,13,0,0
+1547119512418,0,13 /Login.jsp,200,,Thread Group 1-184,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119512419,8,14 /UserServlet?method=login,200,,Thread Group 1-184,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119512405,21,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-184,,true,,11260,2037,1,1,null,21,1,0
+1547119512503,1,11 /Register.jsp,200,,Thread Group 1-185,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119512502,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-185,,true,,1238,414,1,1,null,1,1,0
+1547119512504,12,12 /UserServlet?method=register,200,,Thread Group 1-185,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119512517,0,13 /Login.jsp,200,,Thread Group 1-185,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119512517,22,14 /UserServlet?method=login,200,,Thread Group 1-185,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,21,0,0
+1547119512504,34,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-185,,true,,11260,2037,1,1,null,33,1,0
+1547119512603,2,11 /Register.jsp,200,,Thread Group 1-186,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119512603,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-186,,true,,1238,414,1,1,null,2,0,1
+1547119512605,14,12 /UserServlet?method=register,200,,Thread Group 1-186,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119512619,1,13 /Login.jsp,200,,Thread Group 1-186,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119512620,9,14 /UserServlet?method=login,200,,Thread Group 1-186,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,9,0,0
+1547119512605,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-186,,true,,11260,2037,1,1,null,24,0,0
+1547119512704,1,11 /Register.jsp,200,,Thread Group 1-187,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119512703,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-187,,true,,1238,414,1,1,null,1,1,0
+1547119512705,11,12 /UserServlet?method=register,200,,Thread Group 1-187,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119512717,0,13 /Login.jsp,200,,Thread Group 1-187,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119512718,19,14 /UserServlet?method=login,200,,Thread Group 1-187,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,19,0,0
+1547119512705,30,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-187,,true,,11260,2037,1,1,null,30,3,0
+1547119512804,1,11 /Register.jsp,200,,Thread Group 1-188,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119512803,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-188,,true,,1238,414,1,1,null,1,1,0
+1547119512805,14,12 /UserServlet?method=register,200,,Thread Group 1-188,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,14,0,0
+1547119512819,1,13 /Login.jsp,200,,Thread Group 1-188,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119512820,12,14 /UserServlet?method=login,200,,Thread Group 1-188,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119512805,27,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-188,,true,,11260,2037,1,1,null,27,0,0
+1547119512903,1,11 /Register.jsp,200,,Thread Group 1-189,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119512902,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-189,,true,,1238,414,1,1,null,1,2,0
+1547119512905,12,12 /UserServlet?method=register,200,,Thread Group 1-189,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119512918,0,13 /Login.jsp,200,,Thread Group 1-189,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119512919,12,14 /UserServlet?method=login,200,,Thread Group 1-189,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119512905,24,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-189,,true,,11260,2037,1,1,null,24,2,0
+1547119513004,2,11 /Register.jsp,200,,Thread Group 1-190,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119513003,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-190,,true,,1238,414,1,1,null,2,1,1
+1547119513007,12,12 /UserServlet?method=register,200,,Thread Group 1-190,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119513020,8,13 /Login.jsp,200,,Thread Group 1-190,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,8,0,0
+1547119513028,12,14 /UserServlet?method=login,200,,Thread Group 1-190,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,12,0,0
+1547119513006,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-190,,true,,11260,2037,1,1,null,32,2,0
+1547119513103,2,11 /Register.jsp,200,,Thread Group 1-191,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119513103,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-191,,true,,1238,414,1,1,null,2,0,1
+1547119513105,12,12 /UserServlet?method=register,200,,Thread Group 1-191,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119513117,1,13 /Login.jsp,200,,Thread Group 1-191,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119513118,10,14 /UserServlet?method=login,200,,Thread Group 1-191,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119513105,23,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-191,,true,,11260,2037,1,1,null,23,0,0
+1547119513204,1,11 /Register.jsp,200,,Thread Group 1-192,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119513203,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-192,,true,,1238,414,1,1,null,1,2,0
+1547119513206,12,12 /UserServlet?method=register,200,,Thread Group 1-192,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,11,0,0
+1547119513218,12,13 /Login.jsp,200,,Thread Group 1-192,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,12,0,0
+1547119513231,10,14 /UserServlet?method=login,200,,Thread Group 1-192,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,10,0,0
+1547119513206,34,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-192,,true,,11260,2037,1,1,null,33,1,0
+1547119513304,3,11 /Register.jsp,200,,Thread Group 1-193,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119513303,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-193,,true,,1238,414,1,1,null,3,1,1
+1547119513307,10,12 /UserServlet?method=register,200,,Thread Group 1-193,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119513318,0,13 /Login.jsp,200,,Thread Group 1-193,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119513318,8,14 /UserServlet?method=login,200,,Thread Group 1-193,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,8,0,0
+1547119513307,18,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-193,,true,,11260,2037,1,1,null,18,1,0
+1547119513402,3,11 /Register.jsp,200,,Thread Group 1-194,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119513402,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-194,,true,,1238,414,1,1,null,3,0,1
+1547119513405,10,12 /UserServlet?method=register,200,,Thread Group 1-194,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,10,0,0
+1547119513416,0,13 /Login.jsp,200,,Thread Group 1-194,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119513417,22,14 /UserServlet?method=login,200,,Thread Group 1-194,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,22,0,0
+1547119513405,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-194,,true,,11260,2037,1,1,null,32,3,0
+1547119513502,2,11 /Register.jsp,200,,Thread Group 1-195,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119513502,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-195,,true,,1238,414,1,1,null,2,0,1
+1547119513504,9,12 /UserServlet?method=register,200,,Thread Group 1-195,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,9,0,0
+1547119513513,1,13 /Login.jsp,200,,Thread Group 1-195,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119513514,22,14 /UserServlet?method=login,200,,Thread Group 1-195,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,22,0,0
+1547119513504,32,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-195,,true,,11260,2037,1,1,null,32,0,0
+1547119513602,1,11 /Register.jsp,200,,Thread Group 1-196,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119513601,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-196,,true,,1238,414,1,1,null,1,2,0
+1547119513604,12,12 /UserServlet?method=register,200,,Thread Group 1-196,text,true,,1224,706,1,1,http://localhost:8080/UserServlet?method=register,12,0,0
+1547119513616,1,13 /Login.jsp,200,,Thread Group 1-196,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119513617,20,14 /UserServlet?method=login,200,,Thread Group 1-196,text,true,,9078,681,1,1,http://localhost:8080/UserServlet?method=login,20,0,0
+1547119513604,33,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-196,,true,,11260,2037,1,1,null,33,0,0
+1547119513703,2,11 /Register.jsp,200,,Thread Group 1-197,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,0
+1547119513702,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-197,,true,,1238,414,1,1,null,2,1,0
+1547119513705,24,12 /UserServlet?method=register,200,,Thread Group 1-197,,true,,73,706,1,1,http://localhost:8080/UserServlet?method=register,24,0,0
+1547119513729,1,13 /Login.jsp,200,,Thread Group 1-197,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119513730,4,14 /UserServlet?method=login,200,,Thread Group 1-197,,true,,73,681,1,1,http://localhost:8080/UserServlet?method=login,4,0,0
+1547119513705,29,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-197,,true,,1104,2037,1,1,null,29,0,0
+1547119513803,1,11 /Register.jsp,200,,Thread Group 1-198,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,1,0,0
+1547119513802,1,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-198,,true,,1238,414,1,1,null,1,2,0
+1547119513805,3,12 /UserServlet?method=register,200,,Thread Group 1-198,,true,,73,706,1,1,http://localhost:8080/UserServlet?method=register,3,0,0
+1547119513809,1,13 /Login.jsp,200,,Thread Group 1-198,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,0,0,0
+1547119513810,3,14 /UserServlet?method=login,200,,Thread Group 1-198,,true,,73,681,1,1,http://localhost:8080/UserServlet?method=login,3,0,0
+1547119513805,7,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-198,,true,,1104,2037,1,1,null,6,1,0
+1547119513902,3,11 /Register.jsp,200,,Thread Group 1-199,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,3,0,1
+1547119513902,3,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-199,,true,,1238,414,1,1,null,3,0,1
+1547119513905,3,12 /UserServlet?method=register,200,,Thread Group 1-199,,true,,73,706,1,1,http://localhost:8080/UserServlet?method=register,3,0,0
+1547119513908,1,13 /Login.jsp,200,,Thread Group 1-199,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119513909,3,14 /UserServlet?method=login,200,,Thread Group 1-199,,true,,73,681,1,1,http://localhost:8080/UserServlet?method=login,3,0,0
+1547119513905,7,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-199,,true,,1104,2037,1,1,null,7,0,0
+1547119514002,2,11 /Register.jsp,200,,Thread Group 1-200,text,true,,1238,414,1,1,http://localhost:8080/Register.jsp,2,0,1
+1547119514002,2,11 /Register.jsp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-200,,true,,1238,414,1,1,null,2,0,1
+1547119514004,2,12 /UserServlet?method=register,200,,Thread Group 1-200,,true,,73,706,1,1,http://localhost:8080/UserServlet?method=register,2,0,0
+1547119514006,1,13 /Login.jsp,200,,Thread Group 1-200,text,true,,958,650,1,1,http://localhost:8080/Login.jsp,1,0,0
+1547119514007,11,14 /UserServlet?method=login,200,,Thread Group 1-200,,true,,73,681,1,1,http://localhost:8080/UserServlet?method=login,11,0,0
+1547119514004,14,12 /UserServlet?method=register,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-200,,true,,1104,2037,1,1,null,14,0,0
