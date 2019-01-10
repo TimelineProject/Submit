@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="bean.MessageTest" time="0.055" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\BaiduNetdiskDownload\TimeLineTest\WebTimeLine1\target\test-classes;D:\BaiduNetdiskDownload\TimeLineTest\WebTimeLine1\target\classes;D:\maven\my_maven_local_repository\junit\junit\4.11\junit-4.11.jar;D:\maven\my_maven_local_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\maven\my_maven_local_repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar;D:\maven\my_maven_local_repository\mysql\mysql-connector-java\8.0.13\mysql-connector-java-8.0.13.jar;D:\maven\my_maven_local_repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;D:\maven\my_maven_local_repository\commons-io\commons-io\2.6\commons-io-2.6.jar;D:\maven\my_maven_local_repository\commons-fileupload\commons-fileupload\1.3.3\commons-fileupload-1.3.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="GMT+08:00"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="D:\IntelliJ IDEA 2018.1.5\jdk11\bin"/>
+    <property name="sun.java.command" value="C:\Users\zyc\AppData\Local\Temp\surefire1241478500743145332\surefirebooter35490475124700836.jar C:\Users\zyc\AppData\Local\Temp\surefire1241478500743145332 2018-12-30T16-36-13_317-jvmRun1 surefire5684265019360359354tmp surefire_012447282100532346760tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\BaiduNetdiskDownload\TimeLineTest\WebTimeLine1\target\test-classes;D:\BaiduNetdiskDownload\TimeLineTest\WebTimeLine1\target\classes;D:\maven\my_maven_local_repository\junit\junit\4.11\junit-4.11.jar;D:\maven\my_maven_local_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\maven\my_maven_local_repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar;D:\maven\my_maven_local_repository\mysql\mysql-connector-java\8.0.13\mysql-connector-java-8.0.13.jar;D:\maven\my_maven_local_repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;D:\maven\my_maven_local_repository\commons-io\commons-io\2.6\commons-io-2.6.jar;D:\maven\my_maven_local_repository\commons-fileupload\commons-fileupload\1.3.3\commons-fileupload-1.3.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\zyc"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2018-10-16"/>
+    <property name="java.home" value="D:\IntelliJ IDEA 2018.1.5\jdk11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\BaiduNetdiskDownload\TimeLineTest\WebTimeLine1"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\zyc\AppData\Local\Temp\surefire1241478500743145332\surefirebooter35490475124700836.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.1+13-LTS"/>
+    <property name="user.name" value="zyc"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="D:\maven\my_maven_local_repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\zyc\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2018.1.5"/>
+    <property name="java.version" value="11.0.1"/>
+    <property name="user.dir" value="D:\BaiduNetdiskDownload\TimeLineTest\WebTimeLine1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\IntelliJ IDEA 2018.1.5\jdk11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\IntelliJ IDEA 2018.1.5\jdk11\bin;D:\IntelliJ IDEA 2018.1.5\jdk11\jre\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\System32\OpenSSH\D:\apache-tomcat-9.0.13\lib;D:\apache-tomcat-9.0.13\bin;D:\Git\cmd;D:\maven\apache-maven-3.6.0\bin;C:\Users\zyc\AppData\Local\Microsoft\WindowsApps;D:\apache-tomcat-9.0.13\bin;D:\apache-tomcat-9.0.13\lib;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.1+13-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="D:\maven\my_maven_local_repository"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="getTime" classname="bean.MessageTest" time="0.005"/>
+  <testcase name="getInformation" classname="bean.MessageTest" time="0"/>
+  <testcase name="getUserName" classname="bean.MessageTest" time="0"/>
+  <testcase name="getImage" classname="bean.MessageTest" time="0.001"/>
+</testsuite>
