@@ -1,30 +1,0 @@
-
-V
-squid:S106O"9Replace this use of System.out or System.err by a logger.( £‰8±£í„ş,
-Hsquid:S1989!"%Add a "try/catch" block for "doPost".(ã÷éíùÿÿÿÿ8œú¥„ş,
-[
-squid:S106f"9Replace this use of System.out or System.err by a logger.(â®Á¢ùÿÿÿÿ8¨¢¬„ş,
-jsquid:S1192_"LDefine a constant instead of duplicating this literal "Publish.jsp" 4 times.(ñŠÉ…8È´„ş,
-Asquid:S1148-"#Use a logger to log this exception.(½×‰è8¡¾¡úı,
-gsquid:S40427"IUse "java.nio.Files#delete" here for better messages on error conditions.(ò‚‚ù8Ú‡ß ş,
-[
-squid:S106k"9Replace this use of System.out or System.err by a logger.(ûÛÏçùÿÿÿÿ8ôÅÉ-
-Hsquid:S1181,"%Catch Exception instead of Throwable.(Ù”¤Òşÿÿÿÿ8¡¾¡úı,
-xsquid:S1450"ZRemove the "information" field and declare it as a local variable in the relevant methods.(ÛÉÛ®8È´„ş,
-[
-squid:S106M"9Replace this use of System.out or System.err by a logger.(õï¸ûÿÿÿÿ8ˆŠµ„ş,
-V
-squid:S106F"9Replace this use of System.out or System.err by a logger.(§Şû‚8ˆŠµ„ş,
-vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÛÉÛ®8÷ÂŸúı,
-V
-squid:S106I"9Replace this use of System.out or System.err by a logger.(ñ°÷Ú8ˆŠµ„ş,
-dsquid:S2184="FCast one of the operands of this multiplication operation to a "long".(«ß·¯8À†á…ş,
-bsquid:S2147Y"DCombine this catch with the one at line 87, which has the same body.(”ı¾8É¾¡„ş,
-X
-squid:S8997";Do something with the "boolean" value returned by "delete".(ò‚‚ù8Ú‡ß ş,
-{squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‡£†Ÿÿÿÿÿÿ8¶Ïú„ş,
-vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(•©û8â»ÿöı,
-Fsquid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8É¾¡„ş,
-Hsquid:S1989!"%Add a "try/catch" block for "doPost".(ã÷éíùÿÿÿÿ8œú¥„ş,
-[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8“—¤†ş,
-Fsquid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8É¾¡„ş,
